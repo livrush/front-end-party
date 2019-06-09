@@ -3,18 +3,18 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
-@import "compass/reset";
+// @import "compass/reset";
 @import "./_colors.scss";
 
 html {
-  text-align: center;
   background-image: url(../assets/confetti-bg.svg);
   background-position: top center;
+  font-size: 16px;
+  text-align: center;
 }
 
 body {
   margin: 0;
-  font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -33,21 +33,28 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Fredoka One;
+  margin: 0;
 }
 
 .emoji-lg {
   font-size: 10rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .title-2 {
   font-size: 4rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+}
+
+.title-3 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
 }
 
 .title-4 {
+  font-size: 2rem;
   line-height: 1.25;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .header {
@@ -55,17 +62,23 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   background-image: url(../assets/confetti-header.svg);
   background-repeat: repeat-x;
   background-position: top center;
   background-size: auto 16rem;
-  padding: 5rem;
-  padding-top: 10rem;
+  padding: 5rem 0;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.footer {
+  padding-bottom: 10rem;
+  background-image: url(../assets/confetti-footer.svg);
+  background-repeat: repeat-x;
+  background-position: bottom center;
+  background-size: auto 16rem;
 }
 
 @keyframes App-logo-spin {
