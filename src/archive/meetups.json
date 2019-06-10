@@ -1,0 +1,1331 @@
+[
+  {
+    "id": 63,
+    "date": "June 23, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qkftvqyzhbfc/",
+    "talks": [
+      {
+        "presenter": "Amy Dalton",
+        "title": "A UX Perspective on Online Feature Workshops",
+        "description": "Join Amy Dalton as she talks about online feature workshop best practices. Amy was asked by her product owner to host UX feature workshops for their next release, but business, product and pods were scattered across the globe. With limited T&L, how does one conduct successful online workshops with a varied audience, while gathering specific research results? The UX Guild talk will walk us through her workshop process, with an emphasis on format, execution and data analysis."
+      },
+      {
+        "presenter": "Derek Ambrosio",
+        "title": "Fun with Google Data Studio",
+        "description": "I’ll show some of the things you can do with Google Analytics/Search Console, as well as how it can be used as a powerful dashboard builder for anything from personal finance to plotting home values in New Orleans. The new tool can quickly visualize large data sets and connects to over 500 data sources both Google and Non-Google like: Google Analytics, Google Sheets, Google BigQuery, Google Ads, Display & Video 360, Search Ads 360, YouTube Analytics. Derek Ambrosio (creativeroam.com)."
+      },
+      {
+        "presenter": "Bryan Joseph",
+        "title": "Phoenix LiveView",
+        "description": "Phoenix LiveView is an exciting new library which enables rich, real-time user experiences with server-rendered HTML. It does real-time server-render HTML with DOM diffing in Elixir and Phoenix."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "date": "May 23, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qkftvqyzhbfc/",
+    "talks": [
+      {
+        "presenter": "Amy Dalton",
+        "title": "A UX Perspective on Online Feature Workshops",
+        "description": "Join Amy Dalton as she talks about online feature workshop best practices. Amy was asked by her product owner to host UX feature workshops for their next release, but business, product and pods were scattered across the globe. With limited T&L, how does one conduct successful online workshops with a varied audience, while gathering specific research results? The UX Guild talk will walk us through her workshop process, with an emphasis on format, execution and data analysis."
+      },
+      {
+        "presenter": "Derek Ambrosio",
+        "title": "Fun with Google Data Studio",
+        "description": "I’ll show some of the things you can do with Google Analytics/Search Console, as well as how it can be used as a powerful dashboard builder for anything from personal finance to plotting home values in New Orleans. The new tool can quickly visualize large data sets and connects to over 500 data sources both Google and Non-Google like: Google Analytics, Google Sheets, Google BigQuery, Google Ads, Display & Video 360, Search Ads 360, YouTube Analytics. Derek Ambrosio (creativeroam.com)."
+      },
+      {
+        "presenter": "Bryan Joseph",
+        "title": "Phoenix LiveView",
+        "description": "Phoenix LiveView is an exciting new library which enables rich, real-time user experiences with server-rendered HTML. It does real-time server-render HTML with DOM diffing in Elixir and Phoenix."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "date": "April 25, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qkftvqyzgbhc/",
+    "talks": [
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "TypeScript... in MY Front-End?!",
+        "description": "Let's talk about the up and coming superset for JavaScript that continues to grow in Front End tech stacks."
+      },
+      {
+        "presenter": "Alexa Welch",
+        "title": "Redux-Observable: Streaming State in React",
+        "description": "State management is hard, and mixing in asynchronous functions is harder. Thankfully, it can at least be made simpler with Observables."
+      },
+      {
+        "presenter": "Živilė Janulevičiūtė Goodwin",
+        "title": "A+ CSS, best practices for the modern front end dev",
+        "description": "Quick introduction to best practices for writing CSS. Useful for people who want to learn to write CSS which allows graceful degradation and supports various browsers. This should help you navigate through the internet when you're searching for styling solutions, but not sure which advice to take."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "date": "March 28, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/255770945/",
+    "talks": [
+      {
+        "presenter": "Chris Guzman",
+        "title": "Kotlin for JavaScript",
+        "description": "Chris will introduce us to Kotlin, a cross-platform, statically-typed programming language that targets the JVM, Android, Native, and JavaScript."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Game UX In-Depth: Overwatch",
+        "description": "We'll be taking an in-depth look at how the game Overwatch (PC) uses audio and other cues to feed players information in a fast-paced and distraction-heavy environment."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "date": "January 31, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/255770906/",
+    "talks": [
+      {
+        "presenter": "Bryan Joseph",
+        "title": "Dynamic Content on a Static Site",
+        "description": "Power up your static sites through the power of Netlify and a headless CMS (we will use DatoCMS in this demo)."
+      },
+      {
+        "presenter": "Avery Jolly",
+        "title": "#GetPhysical - Increase Productivity and Energy Through Physical Activity",
+        "description": "As tech professionals, we're always challenging our minds, but we often neglect our physical health. Avery is a fitness expert who will guide us through exercise and health practices that can provide the much-needed balance to the rigor of chronic sitting."
+      },
+      {
+        "presenter": "Ralph Schindler",
+        "title": "Laravel Nova & Tailwind CSS",
+        "description": "We'll look at two interesting projects that have grown out of the Laravel community. The first is Laravel Nova, an \"application interface\" delivered as an SPA built in Vue to jump start Laravel applications. This SPA was built with another new technology: Tailwind CSS. Tailwind is a utility-first CSS framework that is quickly gaining popularity. Let's have an introductory look and discussion about both!"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "date": "October 25, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxnbhc/",
+    "talks": [
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "Real User Monitoring",
+        "description": "What is Real User Monitoring versus Synthetic Testing in the realm of front-end performance? What are some of the tools available to measure both? In this talk we'll do an overview of measurement methods and do a deep-dive on the User Timing API."
+      },
+      {
+        "presenter": "Edwin Gomez",
+        "title": "Email Rendering & Cross-Client Testing",
+        "description": "Edwin will cover some of the email rendering tech they use at rasa.io: the various pain points with cross-client support and how to test email rendering across different clients."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Analyzing Video Game UI/UX Patterns",
+        "description": "We'll be taking a look at how games such as Borderlands 2 and Skyrim tackle both generic and their own unique UI and UX challenges, with a live play-through and commentary."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "date": "September 27, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxmbkc/",
+    "talks": [
+      {
+        "presenter": "Everett Henderson",
+        "title": "Immutable.js",
+        "description": "We’ll learn how to use Immutable.js to manage state more efficiently in Redux apps."
+      },
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "Responsive Images",
+        "description": "Images account for 60% of the bytes downloaded for websites. Come learn how to optimize both performance and art direction with responsive images."
+      },
+      {
+        "presenter": "Joe Ellis",
+        "title": "Real-time apps made simple with Elixir and JS",
+        "description": "Come learn why so many developers can’t seem to shut up about Elixir and how the Elixir ecosystem can benefit you, the front-end developer."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "date": "August 30, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxlbnc/",
+    "talks": [
+      {
+        "presenter": "Ashley Fiorello Mendez",
+        "title": "Collaborative workflow with Design System Manager",
+        "description": "Ashley will share her current workflow using Sketch and InVision's Design System Manager as a set of tools that allow design, development, and QA to work collaboratively with transparency for everyone involved."
+      },
+      {
+        "presenter": "Hank Yates",
+        "title": "WebSockets",
+        "description": "Introduction to Observables and rxjs via WebSockets."
+      },
+      {
+        "presenter": "Brian Ng",
+        "title": "Design Sprint 2.0",
+        "description": "In 2016 Jake Knapp and the team at Google Ventures introduced us to the Design Sprint; A five-day process of solving problems quickly and building digital products with empathy. Brian will discuss the evolution of this process and how his team at Revelry implements it to collaborate with all members of the product team."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "date": "July 26, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxkbjc/",
+    "talks": [
+      {
+        "presenter": "George Mauer",
+        "title": "Storybook, An Interactive UI Component Style Guide",
+        "description": "George will introduce us to Storybook (React), a super useful tool that lets you view different UI component states for development and style guide purposes."
+      },
+      {
+        "presenter": "Colby Taperts",
+        "title": "React Transition Groups",
+        "description": "Take control of your React animations with transition groups, a simple but powerful way to control animations based on state and component changes."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Building An Augmented Reality UI w/ React and AR.js",
+        "description": "We'll take a look at how to build user interfaces using React with AR.js, a library for creating browser-based augmented reality experiences (whoa)."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "date": "June 28, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxjblc/",
+    "talks": [
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Understanding and Using Animation in CSS/JS",
+        "description": "Animation has the potential to create a meaningful impact in any website or application’s user experience. From elaborate designs, to a simple loading spinner, animation can help demonstrate important signals without the use of text. We’ll explore what animation is, the different ways we can incorporate it in CSS or JavaScript, and several libraries to try out."
+      },
+      {
+        "presenter": "Gant Laborde",
+        "title": "README.now",
+        "description": "Understanding the influence and persuasion science of a proper README. In a world of people looking to be heard, how does your code find voice?"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "date": "May 31, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxhbpc/",
+    "talks": [
+      {
+        "presenter": "Brian Ng",
+        "title": "How to hack your brain with meditation",
+        "description": "Exploring the science and benefits of a daily meditation practice."
+      },
+      {
+        "presenter": "Marc Cenac",
+        "title": "Building a serverless app on AWS",
+        "description": "Using AWS console to build a Lambda and integrate it with API Gateway and DynamoDB."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "Rapid Skill Aquisition",
+        "description": "So much to learn, so little time. We'll cover the mindset and methods required to learn any new skill quickly."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "date": "April 26, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxgbjc/",
+    "talks": [
+      {
+        "presenter": "Colin Lacy",
+        "title": "Implementing Material Design - Why, When, and How",
+        "description": "A very light introduction to Material Design; an overview of some tools that can help kickstart development and example implementations using frameworks you already know."
+      },
+      {
+        "presenter": "George Mauer",
+        "title": "There Is No Front-End",
+        "description": "Does it make sense to distinguish so heavily between backend/frontend dev these days? Modern tooling and universal JavaScript give us reason for doubt. George will give us his take on it all."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "WebSockets: Building Realtime Apps",
+        "description": "An introduction to WebSockets, plus we'll take a look at how to build a simple realtime app (okay fine, it's actually gonna be a multiplayer browser game)."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "date": "March 29, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxfbmc/",
+    "talks": [
+      {
+        "presenter": "Bryan Joseph",
+        "title": "CSSNext",
+        "description": "CSSNext is like Babel but for CSS. Learn more about what it is, what it does and how to @apply it in your system-ui."
+      },
+      {
+        "presenter": "Steven Scaffidi",
+        "title": "Reason and BuckleScript",
+        "description": "After a quick introduction of what is Reason and Bucklescript and some core constructs, I'll go over one way you could make an image slider using Reason and the DOM bindings."
+      },
+      {
+        "presenter": "Kevin Hosford",
+        "title": "Planning On Bugs",
+        "description": "How to use error boundaries in React 16 to avoid crashed apps, improve user experience, and make debugging less painful."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "date": "February 22, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxdbdc/",
+    "talks": [
+      {
+        "presenter": "Glynnis Ritchee",
+        "title": "Design 101",
+        "description": "Ever wonder how designers think or why they make the decisions they do? How do they determine which designs work and which don’t? With this high-level introduction to design principles, you’ll learn how to think like a designer. Glynnis will also share examples of her own workflow and a list of resources."
+      },
+      {
+        "presenter": "Matt Shwery",
+        "title": "Browserlist",
+        "description": "Matt is going to explore the Browserslist library which helps you define your browser support target for better tooling."
+      },
+      {
+        "presenter": "Cory Fabre",
+        "title": "Game Dev with Elm and SVG",
+        "description": "After going through a quick introduction into Elm, we will explore how to use it to create a simple game."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "date": "January 25, 2018",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmyxcbhc/",
+    "talks": [
+      {
+        "presenter": "Pratik Patel",
+        "title": "Web Performance Primer",
+        "description": "Ever wondered how frameworks like React and Vue work so well in the browser? In this session, we'll discuss browser performance and the architecture that frameworks use to give you great performance. We'll get into rendering, virtual DOM, and batching to help you understand the magic that's in these frameworks. You'll leave with the knowledge that will be helpful even if you just write plain JavaScript or jQuery!"
+      },
+      {
+        "presenter": "Lee Martin",
+        "title": "Automated Video Creation",
+        "description": "Lee discusses the After Effects plugin Dataclay, which allows you to feed external data sources into compositions for automated video creation. This power can be used for good or evil. He will discuss the latter as it relates to his recent campaign for Marilyn Manson."
+      },
+      {
+        "presenter": "Eric Normand",
+        "title": "Functional Programming for JavaScript",
+        "description": "Eric Normand makes Functional Programming accessible, taking complex academic ideas and making them useful for the software industry."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "date": "October 26, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmywnbjc/",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "AR.js - Augmented Reality For the Web",
+        "description": "An introduction to AR.js, an augmented reality toolkit built on top of Mozilla A-Frame that turns your camera phone into an augmented reality device!"
+      },
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "The Talk About Talks",
+        "description": "Are you hesitant to give tech talks? Do you hate making slides? This two-part talk is for you. First, Sia will talk about the strategies she uses to give talks from meetups to international conferences. Then, she'll walk you though a you a cool tool (reveal-md) for building slides super duper easily in markdown (code snippets are a breeze!)."
+      },
+      {
+        "presenter": "Glynnis Ritchie",
+        "title": "How to Bridge the Divide Between Development and Design",
+        "description": "Glynnis will talk about how designers and developers can collaborate better, using a project she was involved in at Rackspace as an example."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "date": "September 28, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmywmblc/",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "AR.js - Augmented Reality For the Web",
+        "description": "An introduction to AR.js, an augmented reality toolkit built on top of Mozilla A-Frame that turns your camera phone into an augmented reality device. Charge your phone, folks - there will be demos!"
+      },
+      {
+        "presenter": "Jay Casteel",
+        "title": "Advanced Sketch Fu",
+        "description": "Do you use Sketch every day or even just wanted to learn why it’s so great? Jay will be talking about advanced Sketch techniques including powerful plugins, modular nested symbols, bulletproof resizing, animating UX prototypes with Principle, and exporting perfect Dribbble GIFs."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "date": "August 31, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fhhcqmywlbpc/",
+    "talks": [
+      {
+        "presenter": "Colin Lacy",
+        "title": "Managing User Interactions in a Redux Data Flow",
+        "description": "In this talk, we'll talk about how a Redux data flow can be used to manage interactive elements around the core of your layout, such as modals, slide-out navigation toggles, and page titles. Examples will be in Angular 4 with @ngrx/store, but the focus will be on how each example fits into the Redux mentality."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "Design Thinking: How UX teams solve problems through empathy",
+        "description": "From social innovation to building apps, I’ll explain how modern design teams work in a collaborative, iterative fashion to solve problems big and small. We’ll primarily look at Design Thinking through the lens of User Experience teams and how they apply the methodology to improve apps and online services."
+      },
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "Universal JavaScript, Server-Side vs Client-Side Rendering, What does it all mean?",
+        "description": "What do all these terms mean, and what makes them important? What are the trade-offs to server vs client side rendering? Come learn about these things in the context of Next.js, a React framework for Universal JavaScript. In this talk, we'll focus more on the concepts which can be understood across multiple front-end frameworks, not just React."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "date": "July 27, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkywkbkc/",
+    "talks": [
+      {
+        "presenter": "Hank Yates",
+        "title": "Mapping Health Risk Behaviors in Louisiana",
+        "description": "Dive into Hank's latest side project that uses ElasticSearch aggregations and SVG maps with some interesting data."
+      },
+      {
+        "presenter": "Devin Villegas",
+        "title": "Intro to Elm",
+        "description": "A talk on some highlights of the elm language, and why you should use it in your projects."
+      },
+      {
+        "presenter": "Matt Shwery",
+        "title": "Everything you need to know about npm@5",
+        "description": "Learn the highlights of the latest version of the node package manager."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "date": "June 29, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkywjbmc/",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Exploring Linux UI Design Patterns",
+        "description": "Cameron will deliver a short-ish review of modern linux desktop design patterns, in GNOME and Budgie desktop environments and observations on how web and mobile design patterns have manifested there."
+      },
+      {
+        "presenter": "Collin Lacy",
+        "title": "Up and running with Webpack 2",
+        "description": "Colin will give a talk about a simple configuration to start using Webpack 2, then go into adding functionality to simplify the build process, and customize the way things are built with plugins and loaders. He'll then show how to build a custom loader if you need to do extra work with your build."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "CraftCMS",
+        "description": "Steven will give a presentation on CraftCMS an why it’s his go-to CMS for building scalable websites with complete control in mind. He’ll talk about features, templating, security, DRY components, and managing long-form content. He’ll also be giving away a free Craft Pro License with a training pack from Mijingo, and a suite of business software from the team at Sprout."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "date": "May 25, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkywhbhc/",
+    "talks": [
+      {
+        "presenter": "Kevin Hosford",
+        "title": "",
+        "description": "Kevin will introduce us to GraphQL, a query language for APIs with a lot of strong frontend use cases. It lets you fetch only what you need from your API, request multiple resources in one go, and utilize a type system."
+      },
+      {
+        "presenter": "Bryan Joseph",
+        "title": "",
+        "description": "There are many options in modern JavaScript for handling concurrency: callbacks, promises, generators, async/await, web workers, and atomics. Bryan will outline each of these mechanics and more."
+      },
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "",
+        "description": "React is super fast, but you could be shooting yourself in the foot if you don't pay much attention to application performance. Come learn how to make your React apps lightning fast!"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "date": "April 27, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkywgbkc/",
+    "talks": [
+      {
+        "presenter": "Katie Patch",
+        "title": "Accessibility 101",
+        "description": "Learn the basics of accessibility: Why it's important, quick changes you can make in your code, and resources to help!"
+      },
+      {
+        "presenter": "Colin Lacy",
+        "title": "JavaScript Decorators + Class Composition",
+        "description": "Colin will demo the benefits of \"decorators\" and using them for class composition."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "date": "March 30, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkywfbnc/",
+    "talks": [
+      {
+        "presenter": "Matt Shwery",
+        "title": "The quickest way to build a React app",
+        "description": "Build and deploy a lightning fast, SEO-friendly, universal JavaScript app with Next.js + Now."
+      },
+      {
+        "presenter": "Patrick Burtchaell",
+        "title": "On working at Facebook",
+        "description": "Patrick recently spent some time working at Facebook. He’ll talk about his experience developing products, how Designers and Engineers collaborate, office culture, and what it’s like to live in the Bay Area."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "Usability Testing: What is it good for?",
+        "description": "Steve will go over the importance of usability testing, some best practices, how to handle testing for different budgets, and when to incorporate testing within an iterative design cycle."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "date": "January 26, 2017",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkywcbjc/",
+    "talks": [
+      {
+        "presenter": "Seth Silesky",
+        "title": "NativeBase: a cross-platform bootstrap for React Native",
+        "description": "How to build mobile apps that don't look like crap."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Building a little something with Angular 2",
+        "description": "Get a feel for the framework with a walk-through of a small client-side app."
+      },
+      {
+        "presenter": "Sia Karmalegos",
+        "title": "Using form-serialize with React",
+        "description": "How POODR (Practical Object-Oriented Design in Ruby) and serialization saved my form-heavy React app."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "date": "October 27, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvnbkc/",
+    "talks": [
+      {
+        "presenter": "Joe Ellis",
+        "title": "Best Practices With React / Redux",
+        "description": "Redux is an awesome way to build front-end apps; unfortunately, it doesn't explain much in the ways of structuring, organizing, and testing your code when building medium to large sized SPA applications. Joe is going to talk a little about the best practices he's discovered in his own Redux journey and hopefully help save someone somewhere the time he's already spent trying to figure it all out."
+      },
+      {
+        "presenter": "Ryan B. Harvey",
+        "title": "A Brief Introduction to Web Components and Polymer",
+        "description": "Ryan will give an introduction to web components and their standards, as well as an introduction to Google's Polymer Project, which makes it possible to build web component based sites and apps today. Finally, Ryan will briefly review the changes between Polymer 1.x and the 2.0 Preview, and the upgrade path provided by the Polymer team."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "date": "September 29, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvmbmc/",
+    "talks": [
+      {
+        "presenter": "Eric Normand",
+        "title": "Mobile apps with ClojureScript and React Native",
+        "description": "ClojureScript on React Native is making headway as a valid platform for developing mobile apps. It combines the power of React Native with functional programming, immutable data structures, and live reloading. In this talk, Eric will live code an app from scratch to show off the development features of ClojureScript."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Angular 2. The Good, the Bad, and the Meh",
+        "description": "The wait for Angular 2 is finally over. Cameron will talk about his experience building a small application using the framework - what's to like, what's not to like."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "Sketch: A modern tool for modern times",
+        "description": "As Photoshop was initially created for photo editing, Sketch was created for designing digital products. In its short lifespan, it has already become an industry darling for top design agencies and User Experience Designers. Steven will go over basics, some nifty plugins, and take a look at the beta version of the powerful Craft plugin from InVision."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "date": "August 25, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvlbhc/",
+    "talks": [
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "Getting started with React",
+        "description": "Have you been interested in learning about React? Don't know where to start? I'll share the ups and downs of learning React on your own and share some great resources and what order to try to learn things in."
+      },
+      {
+        "presenter": "Steve Price",
+        "title": "Co.js for fun and profit",
+        "description": "Callback Hell got you down? Get a taste of the buttery smooth future of ES7 async programming today with co.js."
+      },
+      {
+        "presenter": "Colin Lacy",
+        "title": "TypeScript: Why I Drank the Kool Aid",
+        "description": "This is my story of how and why I got hooked on TypeScript, and why my team is transitioning all of our front-end and Node development to TS. Told from my own experience, with absolutely no Googling of evangelistic blog posts. Just my explanation of why it works for me, and why it might work for you."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "date": "July 28, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvkblc/",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Data Visualization in Virtual Reality with A-Frame",
+        "description": "A walkthrough of building immersive data visualization experiences using Mozilla A-Frame (WebVR)"
+      },
+      {
+        "presenter": "Jay Casteel",
+        "title": "The Evolution of Web Design",
+        "description": "Web design is a constantly evolving art that, in retrospect, has had some pretty hilarious growing pains. Jay will talk about the evolution of web design: where it's been and where it's going."
+      },
+      {
+        "presenter": "Eli Silverman",
+        "title": "Beyond FTP with WordPress",
+        "description": "Why are WordPress developers the last to gain access to modern dev and deployment tools? There's no good reason... Eli will be giving a demo of how to install and configure the automated deployment tools he uses that leverage grunt.js and the WP-CLI. Great for intermediate WP devs looking to grow their capacity and work more efficiently."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "date": "June 30, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvjbnc/",
+    "talks": [
+      {
+        "presenter": "Gant Laborde",
+        "title": "Ignite your Mobile Dev",
+        "description": "Gant will show us how to handle React Native in a quick and easy manner and will use technologies discussed in past talks to create a React Native quickstarter."
+      },
+      {
+        "presenter": "Hannah Rhodes",
+        "title": "Graphic Design: Not Just a Pretty Face",
+        "description": "An insight into the process of visual communication and a challenge to the all-too-common misconception that graphic design is simply an exercise in 'making things pretty'."
+      },
+      {
+        "presenter": "Flynn Zaiger",
+        "title": "Push My Buttons. Please.",
+        "description": "Flynn will cover how to keep your site looking good, while also ensuring there are visual cues and elements that help users know what to click (and why they should click it!)."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "date": "May 26, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvhbjc/",
+    "talks": [
+      {
+        "presenter": "Greg Baraghimian",
+        "title": "",
+        "description": "Greg will take us through a deeper dive into flexbox - how to implement some common and not-so-common layout patterns."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "",
+        "description": "AngularJS v2 is right around the corner. Come and learn about the next major version of the framework and if that Angular v1 app you have laying around will survive into next year (get rekt)."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "",
+        "description": "Nowadays most designers and developers have something akin to \"UX/UI\" on their LinkedIn profile, but what is UX, really? Steven will explore the skills of great User Experience Designers, the psychology that drives users, how the process looks, and some of the tools involved."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "date": "April 28, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvgblc/",
+    "talks": [
+      {
+        "presenter": "Marc Cenac",
+        "title": "",
+        "description": "MQTT is a lightweight pub/sub messaging protocol designed for Internet of Things (IoT) devices and low-bandwidth, high-latency or unreliable networks. It runs on top of the TCP/IP networking stack and since we cannot open a TCP connection directly from the browser, He'll show an example Javascript client connecting to an MQTT broker over WebSockets"
+      },
+      {
+        "presenter": "Emily Ashley",
+        "title": "",
+        "description": "5 minute overview of the Anatomy of a Webmap and tools available to make them sparkle. We'll end with a super-quick tutorial on leaflet.js - the leading open-source JavaScript library for mobile-friendly interactive maps. Beginner friendly!"
+      },
+      {
+        "presenter": "Jay Bienvenu",
+        "title": "",
+        "description": "An introduction and overview on Aurelia (http://aurelia.io/), a new framework for single-page web applications."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "date": "March 31, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvfbpc/",
+    "talks": [
+      {
+        "presenter": "Patrick Burtchaell",
+        "title": "Async Code with Redux",
+        "description": "Out of the box, Redux is great for synchronous changes to state, but how do you effectively handle asynchronous changes that involve data access and network requests? I'll introduce promises, explain Redux middleware that helps solve the async actions problem and cover some ways you can handle async actions in user-interfaces that use React and React Router."
+      },
+      {
+        "presenter": "Bill Brown",
+        "title": "Yo, man... err I mean Yeoman",
+        "description": "Bill is going to give us an overview of how to scaffold out front-end projects using Yeoman, \"the web's scaffolding tool for modern web apps\". Learn how to build your own generator and watch a quick demo of Bill's very own custom generator."
+      },
+      {
+        "presenter": "Matt Shwery",
+        "title": "Flexbox – Sensible CSS Layouts",
+        "description": "Gone are the days of `float`s and `position: absolute` to position parts of your web page. Flexbox solves layout and positioning problems with elegance and ease. If you do CSS, you should know Flexbox."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "date": "February 25, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvdbhc/",
+    "talks": [
+      {
+        "presenter": "Paul Christmann",
+        "title": "Programming with Atom Electron - a Cross Platform Desktop App",
+        "description": "At Oseberg, we are starting an effort to replace our .NET desktop app with a node/angular based app and using Electron as our build and distribution mechanism. I'll be talking about the thought process that led to this distribution choice, some of the perils we are encountering, and quick demo of what this is starting to look like."
+      },
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "Re-Branding Bootstrap using Sass",
+        "description": "How to re-brand your website while still using Bootstrap's helper-classes. We will use the Sass gem to learn how to reset Bootstrap variables for two cases - static websites (with no package manager) and quickly how to apply to Rails apps as well."
+      },
+      {
+        "presenter": "Greg Baraghimian",
+        "title": "ELM - An Interesting Approach to Front-end Programming.",
+        "description": "Greg is going to give us a rundown on Elm, a new front-end programming language, and what it means to program in a 'functionally reactive' way."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "date": "January 28, 2016",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyvcblc/",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "",
+        "description": "2016 is being called the year of virtual reality. The Oculus Rift, Google Cardboard, Gear VR, and other such devices have the potential to change the way we consume digital content, the web included. Come and learn the basics of WebVR, an early standard for making in-browser VR experiences. GET HYPE."
+      },
+      {
+        "presenter": "George Mauer",
+        "title": "",
+        "description": "Everyone loves their model-binding, fluxes, and uni-directional data-flows. But remember the days when good ol' forms were the bee's knees? They can be again! George covers how modern browsers make the humble form a legitimate competitor to all those highfalutin' libraries and such."
+      },
+      {
+        "presenter": "Bryan Joseph",
+        "title": "",
+        "description": "Bryan goes over options for JavaScript linting using ESLint, as well as covering another code-shaming tool called standard."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "date": "October 29, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytnbmc/",
+    "talks": [
+      {
+        "presenter": "Jacqui Nelson",
+        "title": "",
+        "description": "What is jQuery? How does jQuery relate to JavaScript? When should or shouldn't one use it? This introduction to jQuery will answer these basic questions and more."
+      },
+      {
+        "presenter": "Juan Thomassie",
+        "title": "",
+        "description": "A look at D3 patterns for reusable, configurable charts. We'll look at a progression from very basic chart code to a reusable chart closure that exposes configurable options as getter-setter methods."
+      },
+      {
+        "presenter": "Dionne Grayson",
+        "title": "",
+        "description": "Instead of making the same ole boring website over and over again, Dionne will share about ways to create elements of delight to inspire users on your next website."
+      },
+      {
+        "presenter": "Greg Baraghimian",
+        "title": "Meteor",
+        "description": "Learn what Meteor means for frontend development. Isomorphic... universal... something-or-other: write your frontend and backend at the same time"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "date": "September 24, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytmbgc/",
+    "talks": [
+      {
+        "presenter": "Ron Domingue",
+        "title": "Passions Projects",
+        "description": "Ron will talk about how the sharing of his personal design projects has lead to bigger and better work and some unexpected opportunities along the way."
+      },
+      {
+        "presenter": "Joe Ellis",
+        "title": "Let's Redux",
+        "description": "Joe Ellis (that's me) will talk about Redux (https://github.com/rackt/redux), which is an easier and fun functional Flux/React alternative for creating single page applications."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "date": "August 27, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytlbkc/",
+    "talks": [
+      {
+        "presenter": "Eric Normand",
+        "title": "ClojureScript - The Rundown",
+        "description": "Functional programming is gaining some serious traction in the frontend. Now's your opportunity to become initiated. Eric will be introducing us to ClojureScript, a Clojure-to-JavaScript compiler. Learn about the ins and outs of its ecosystem, such as React extensions, and more. I hope you like parentheses."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Getting Tactical with AngularJS & ES6/ES7",
+        "description": "Learning, developing, and future-proofing AngularJS code is serious business, but it doesn't have to feel completely alien. With options like ES6, Babel, and recent framework updates, writing kickass angular code is easier than ever. Cameron will talk to us about how to use those tools to make angular feel like an actual 'superheroic MVW framework'...like Batman, if Batman were a JavaScript framework (and friendlier)."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "BrowserSync: The Way of a Thousand Screens",
+        "description": "Cross-browser and cross-device testing can be a hassle, but fear not. Steven will guide us on using Gulp and BrowserSync to test across different devices and platforms in real-time. Bring your hacker gloves."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "date": "July 30, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytkbnc/",
+    "talks": [
+      {
+        "presenter": "Jonathan Lloyd",
+        "title": "Rapid frontend prototyping",
+        "description": "Peek into the world of launching a product as Jonathan explores a rapid and light-weight process for developing front-end prototypes."
+      },
+      {
+        "presenter": "Elise Hotard",
+        "title": "Optimizing SVG Images for the Web",
+        "description": "With retina devices becoming the standard, SVGs provide an illustration solution that is supported, scalable, and crisp. By learning how to optimize SVGs for the web, we can provide superior and interactive user interfaces to the visitors on our websites."
+      },
+      {
+        "presenter": "Matt Shwery",
+        "title": "JSPM and the Shortest Path to ES6 Modules",
+        "description": "JSPM is on a mission to streamline all the things: package manager that wraps npm+github, flat versioned dependencies (deduped!), SystemJS module loader, built-in ES6 support. Could JSPM really replace npm + gulp + browserify bundling entirely?"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "date": "June 25, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytjbhc/",
+    "talks": [
+      {
+        "presenter": "Brian Berlin",
+        "title": "Introduction to Ampersand.js",
+        "description": "Ampersand.js is a highly modular, loosely coupled, non-frameworky framework. Composed of tiny modules, Ampersand is able to leverage the power of npm and browserify/webpack to build advanced applications, while maximizing simplicity in the increasingly complex world of front-end application development. Learn some conventions and how to harness the flexibility of Ampersand to solve real problems presented by today's web apps."
+      },
+      {
+        "presenter": "Ralph Schindler",
+        "title": "OAuth2 In Practice: From Frontend To Backend",
+        "description": "We've seen an overview of OAuth2 workflow previously, in this talk we'll look at OAuth2 in practice with a few different technologies at play: A ReactJS+Flux+ReactRouter front-end application, a PHP backend application and authorization courtesy of github.com OAuth2 web browser workflow."
+      },
+      {
+        "presenter": "Jay Casteel",
+        "title": "Let's Talk About Docs, Baby. Let's Talk About You and Me.",
+        "description": "We will explore discovery phase UX documentation and when it's appropriate for a project. Also we will examine how to build solid User Personas, User Journeys and Task Grids that will inform a strong UI over a project lifecycle."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "date": "May 28, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/222724425/",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "",
+        "description": "Forget about CSS pre-processors. PostCSS transforms your CSS during build, letting you enjoy non- vendor-prefixed properties, bleeding-edge CSS4, automagic browser workarounds, and a ton of other features via JavaScript plugins. Now you can have that grass-fed, all-natural CSS you've always wanted."
+      },
+      {
+        "presenter": "George Mauer",
+        "title": "",
+        "description": "George will walk us through some of the things he's learned teaching programming to teenagers with Operation Spark. He'll be reviewing the battle-tested teaching strategies he's honed over the past sixth months and cover some stuff you'll wonder why nobody does, some stuff you'll disagree with entirely, and just plain old hard opinions of his. Good times."
+      },
+      {
+        "presenter": "Gil Birman",
+        "title": "",
+        "description": "What if I told you that you could build native mobile apps using React? You would probably say \"dang\", right? Gil will be introducing us to React Native, a framework for building native apps using, well, React. Make ready."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "date": "April 30, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytgbnc/",
+    "talks": [
+      {
+        "presenter": "Kurtis Rainbolt-Greene",
+        "title": "",
+        "description": "An introduction into HTML5 semantics and history"
+      },
+      {
+        "presenter": "Marc Cenac",
+        "title": "",
+        "description": "The talk will cover the basics of OAuth including a little history. Then we will cover the different types of implementations and see what companies are using which implementations. By the end you will hopefully have a better understanding of how OAuth works and how you can use it."
+      },
+      {
+        "presenter": "Bryan Joseph",
+        "title": "",
+        "description": "A peek into how to compile a language to JavaScript. A presentation on the compilation process and the tools needed."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "date": "March 26, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytfbjc/",
+    "talks": [
+      {
+        "presenter": "Ryan Robinson",
+        "title": "Axure",
+        "description": "Learn to use Axure as a front-end design tool to expedite the design/business rules approval with clients and streamline the design process for development handoff."
+      },
+      {
+        "presenter": "Jacqui Nelson",
+        "title": "AJAX",
+        "description": "What is ajax? When is it used? How do you debug problems? Find the answers to these questions here."
+      },
+      {
+        "presenter": "Gil Birman",
+        "title": "Transducers",
+        "description": "Prepare to have your mind blown – Gil is back and he's gonna teach us transducers."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "date": "February 26, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/220721248/",
+    "talks": [
+      {
+        "presenter": "Joe Ellis",
+        "title": "Sass vs Less vs Stylus vs Rework",
+        "description": "Joe does the best advantage/disadvantage/feature comparison of all the popular CSS pre-processors out there to help you figure out which one is best for your project."
+      },
+      {
+        "presenter": "Rob Schley",
+        "title": "ES6",
+        "description": "Rob takes a look into ES6, the bleeding-edge of JavaScript, and how you can start using it in your projects."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Browserify",
+        "description": "Cameron will walk us through the wizardry of Browserify, a tool that lets you bundle Node.js-style modules for use on the client-side."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "date": "January 29, 2015",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkytcbmc/",
+    "talks": [
+      {
+        "presenter": "Rob Schley",
+        "title": "",
+        "description": "Rob takes a look into ES6, the bleeding-edge of JavaScript, and how you can start using it in your projects"
+      },
+      {
+        "presenter": "Jason Pelker",
+        "title": "The End of Web Design",
+        "description": "Jason talks about the ways the last 20 years of web design has failed clients and what the future of the medium holds."
+      },
+      {
+        "presenter": "Gil Birman",
+        "title": "",
+        "description": "Gil is going to give us a great intro to building apps with ReactJS and immutable data structures."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "date": "October 30, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/214897112/",
+    "talks": [
+      {
+        "presenter": "Bryan Joseph",
+        "title": "Isomorphic JavaScript",
+        "description": "Bryan will be giving us a high-level overview of Isomorphic JavaScript — shared application code that can run on both the client and the server (neat stuff). He'll also walk us through the tools and frameworks that make it all possible. Prepare yourselves."
+      },
+      {
+        "presenter": "George Mauer",
+        "title": "simple-modules: a dead-simple JavaScript module system",
+        "description": "A module system is important. Some would argue that for maintainable JavaScript having some sort of module system is the *most* important thing you can do. Yet for many, introducing ES6, RequireJS, or browserify mid-project is a nonstarter. That's why George wrote simple-modules - a micro-library built specifically to make it easy for brownfield projects to transition to using a sane JavaScript module system."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Jasmine: a pretty good BDD testing framework for JavaScript",
+        "description": "Testing is important (you do have 100% test coverage, right?). Cameron will walk us through using Jasmine, a behavior-driven development testing framework for JavaScript, that you may steel your code against the tempest."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "date": "September 25, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/208260462/",
+    "talks": [
+      {
+        "presenter": "Lee Martin",
+        "title": "Intimacy Doesn’t Scale",
+        "description": "Lee will talk us through how he developed an application directly liking the band Little Dragon to its fans using HTML5 video, Phone Lib and a number of js libraries."
+      },
+      {
+        "presenter": "Marc Cenac",
+        "title": "Real-time file upload progress meter using node.js and socket.io",
+        "description": "When uploading large files, it is useful to show the user the progress of the file upload. I will show how to accomplish a file upload using AJAX, then how to display the progress of the upload from client to server. Then I will show how to display the progress of a file upload to a 3rd party service by emitting events from node.js and socket.io."
+      },
+      {
+        "presenter": "Brian Danos",
+        "title": "Fast forms",
+        "description": "A review of current best practices and a look towards the future of form design."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "date": "August 28, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/qzxwkkyslblc/",
+    "talks": [
+      {
+        "presenter": "Steve Price",
+        "title": "The \"Oh shit, oh shit\" method of software architecture",
+        "description": "How a green-as-grass junior dev ended up inheriting a cowboy-coded mess of a web app architecture, including a bunch of core features that straight up didn't work, making sense out of the chaos by the seat of his pants and ascending to mid-level dev status in the process. For all those facing their own trial-by-fire, the path through it lies within you and here's how to find it."
+      },
+      {
+        "presenter": "Lee Gillentine",
+        "title": "Shipping Code Fast",
+        "description": "Tips and techniques for rapidly developing web applications from side projects to MVPs to custom software."
+      },
+      {
+        "presenter": "Brian Berlin",
+        "title": "Automated Tests with Phantomjs and Casper",
+        "description": "We will look at examples of how Airpnp used phantomjs along with casperjs to do functional testing on frontend code. I'll also show how we use wraith for regression testing before deploying static sites at 3Coasts."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "date": "July 31, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/197549442/",
+    "talks": [
+      {
+        "presenter": "Eric Normand",
+        "title": "Lambda Calculus Meets CSS",
+        "description": "What does the lambda calculus (the foundation of functional programming) have to say about CSS? Do preprocessors like Sass and Less really help? How can they do better?"
+      },
+      {
+        "presenter": "Gustavo Tavares",
+        "title": "Build Sites Crazy Fast with Middleman",
+        "description": "From source to site with minimal pain – Middleman takes on the structure of a static site to produce one. Based on a plugin structure, it can build sites in a variety of ways – free from the constraint of a blog. We'll build a simple website to prove just that, and host it on GitHub so you can imagine Middleman in your workflow."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "date": "June 26, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/190883182/",
+    "talks": [
+      {
+        "presenter": "Gil Birman",
+        "title": "",
+        "description": "Building responsive UIs sometimes calls for some guile. Gil will walk us through using fluid layout techniques, Sass sorcery, and sprinklings of AngularJS to create ridiculously responsive single-page apps"
+      },
+      {
+        "presenter": "Patrick Burtchaell",
+        "title": "",
+        "description": "Gulp vs. Grunt: make ready for a build system smackdown. Patrick will be introducing us to the contenders, then contrasting the two tools by outlining use cases, as well as showing us some cool plugins and resources along the way."
+      },
+      {
+        "presenter": "Adam Clarke",
+        "title": "",
+        "description": "JavaScript. We all know it. We all love/tolerate it. Adam's spent countless hours writing and maintaining JavaScript code, and quite frankly he's fed up with the pain of writing and maintaining large, often unorganized JavaScript codebases. He found Backbone.js and never looked back. Adam will explain how he got started using Backbone.js to make smooth JavaScript music."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "date": "May 29, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/183456662/",
+    "talks": [
+      {
+        "presenter": "Chris Boyd",
+        "title": "",
+        "description": "Chris recently completed a project for the Houston Zoo aimed at kids. He will highlight the different plugins he used for motion including Spritely.net, which enables dynamic character and background animations in pure HTML and JavaScript."
+      },
+      {
+        "presenter": "Marc Cenac",
+        "title": "",
+        "description": "We all know that we need to be better about testing, Marc is going to walk us through how GE implements browser based testing. He will talk through controlling the browser with the WebDriver API and how to harness the new features of TestNG."
+      },
+      {
+        "presenter": "Alex Dragoset",
+        "title": "",
+        "description": "PostBox is a communication plugin for the popular Knockout.js. Alex is going to highlight how PostBox allows View Models to share data without maintaining direct reference to each other."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "date": "April 24, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/178566852/",
+    "talks": [
+      {
+        "presenter": "Matt Shwery",
+        "title": "D3.js",
+        "description": "Matt will introduce D3.js, a fantastic library for compelling, custom data-driven visualizations. It provides a wealth of abstraction for composing svgs in the DOM, but is geared towards one-off visuals. Matt will take a look at how we transform d3.js into reusable components."
+      },
+      {
+        "presenter": "Bryan Joseph",
+        "title": "",
+        "description": "A discussion about keeping your web or mobile applications functional while disconnected from your servers. We will discuss some practices and technologies that help to make your apps working whether connected or disconnected."
+      },
+      {
+        "presenter": "Ben Eckel",
+        "title": "Ionic",
+        "description": "Ionic is a new framework based on Angular.js built to simplify the creation of cross-platform mobile applications. Ben will build a 15 minute sample application and talk about the pros and cons of this approach."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "date": "March 27, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/166492712/",
+    "talks": [
+      {
+        "presenter": "Jeremy Miller",
+        "title": "Collaboration Tools",
+        "description": "Alex is going to cover collaboration tools"
+      },
+      {
+        "presenter": "George Mauer",
+        "title": "Technical Interviews",
+        "description": "George is going to cover technical interviews."
+      },
+      {
+        "presenter": "Kurtis Rainbolt-Greene",
+        "title": "Ember.js",
+        "description": "Kurtis will walk us through doing frontend right with Ember.js."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "date": "January 30, 2014",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/156106052/",
+    "talks": [
+      {
+        "presenter": "Alex Hertz",
+        "title": "",
+        "description": "Alex is going to cover designing in the browser: tools, techniques, and ways to work around common headaches starting out."
+      },
+      {
+        "presenter": "Dom Saulet",
+        "title": "",
+        "description": "Dom will show us how to use specialized and complementary tools to maximize time and effort when building software prototypes."
+      },
+      {
+        "presenter": "Torrie Adams",
+        "title": "",
+        "description": "Torrie will walk us through usability horror stories and best practices for making front-ends that even the most idiotic of users can navigate."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "date": "October 24, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/146899222/",
+    "talks": [
+      {
+        "presenter": "Nick Noble",
+        "title": "",
+        "description": "Nick is going to do an overview of what it means to be a front-end developer and going over his experience in dealing with clients, responsibilities, job titles, and more."
+      },
+      {
+        "presenter": "Joe Ellis",
+        "title": "",
+        "description": "I'm planning on *trying* to live-code as many of CSS layout and styling tricks I've learned over the years and still constantly use, as well as hopefully hit on some newer styling tricks you may not have seen or used before."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "date": "September 26, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/141885792/",
+    "talks": [
+      {
+        "presenter": "Mark D'Arensbourg",
+        "title": "GruntJS",
+        "description": "Mark is going to us the low-down on gruntjs, a fantastic task runner for helping automate repetitive front-end related work."
+      },
+      {
+        "presenter": "Brian Berlin, Billy Brown",
+        "title": "",
+        "description": "Brian and Billy are going to walk us through their new redesign of 3Coasts.com and give us some insight as their ideas and concepts behind the whole process."
+      },
+      {
+        "presenter": "Brandi Hopkins",
+        "title": "",
+        "description": "Brandi will talk on unified content strategy to show how to best organize your content and ensure you're always delivering clear and consistent messaging on your site."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "date": "August 29, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/136729912/",
+    "talks": [
+      {
+        "presenter": "George Mauer",
+        "title": "",
+        "description": "George will be presenting on a new Javascript widget he's created to help assisting in preserving state across page components. You can check out the plugin beforehand at: https://bitbucket.org/togakangaroo/ow.persiststate"
+      },
+      {
+        "presenter": "Nick Noble",
+        "title": "",
+        "description": "Nick is going to give us an in-depth intro into color theory and understanding how color works in design, on the web, and on your screen.."
+      },
+      {
+        "presenter": "Mark D'Arensbourg",
+        "title": "",
+        "description": "Mark is going to us the low-down on gruntjs, a fantastic task runner for helping automate repetitive front-end related work."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "date": "July 25, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/130917282/",
+    "talks": [
+      {
+        "presenter": "Rob Schley",
+        "title": "",
+        "description": "Rob is going to dive deep into AngularJS and show us some advanced and practical techniques when using AngularJS in real-world applications"
+      },
+      {
+        "presenter": "Ron Domingue",
+        "title": "",
+        "description": "Ron will talk about his experience with digital publishing versus app development on the iOS platform, producing Hotel Whiskey Tango and Love Letters from New Orleans."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "",
+        "description": "Steven is presenting on everything CodeKit, an awesome app to help speed up front-end development through automation."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "date": "June 27, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/125721122/",
+    "talks": [
+      {
+        "presenter": "Dylan Staley",
+        "title": "",
+        "description": "Dylan will show us the magic of static site generation, and how you can build a simple (but powerful!) content-management system with Prose.io and GitHub."
+      },
+      {
+        "presenter": "Lee Martin",
+        "title": "",
+        "description": "Having built sites for the biggest names in rock, Lee gives us a tour of his most useful tricks surrounding server-side image processing."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "",
+        "description": "Cameron will dive into the CSS spec and show us the secrets and ideas behind understanding the CSS Visual Formatting Model."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "May 30, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/121022872/",
+    "talks": [
+      {
+        "presenter": "Rob Caraway",
+        "title": "",
+        "description": "Rob will show us his strategies, best practices, and everything you need to know to begin creating excellent iPhone app designs."
+      },
+      {
+        "presenter": "Jeremy Miller",
+        "title": "",
+        "description": "Jeremy will dive into how to develop and customize websites using WordPress, the Woo Framework, as well as parent and child themes."
+      },
+      {
+        "presenter": "Ben Eckel",
+        "title": "",
+        "description": "Ben plans to give us a great overview of Angular.js, what it can do, and if it's right for your next single page javascript app project."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "April 25, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/115199782/",
+    "talks": [
+      {
+        "presenter": "George Mauer",
+        "title": "",
+        "description": "George is going to school us on the nice advantages on having our Javascript functions return their own functions and why you should be doing this in your own code."
+      },
+      {
+        "presenter": "Mark D'Arensbourg",
+        "title": "",
+        "description": "Mark will give a presentation showing us how we can create reusable and responsive components on individual elements using the MediaClass JS library."
+      },
+      {
+        "presenter": "Joel Wietelmann",
+        "title": "",
+        "description": "Joel will go over the basics plus a demo of the up and coming WebRTC API that allows you to use a computer's camera and microphone through the browser."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "March 28, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/109997182/",
+    "talks": [
+      {
+        "presenter": "Beau Button",
+        "title": "",
+        "description": "Beau will present on tips to simplifying UI component communication by using a pub/sub messaging strategy with Amplify.js."
+      },
+      {
+        "presenter": "Scott Hedrick",
+        "title": "",
+        "description": "Scott's talk will focus on self scaling UI in iOS, particularly around creating helper methods to scale components based on content size and rearranging views efficiently."
+      },
+      {
+        "presenter": "Jay Casteel",
+        "title": "",
+        "description": "Jay will go over custom map solutions like TileMill, CartoCSS and Leaflet.js, covering front-end styling, data import sources/techniques and a short demo to bring it all together."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "date": "February 28, 2013",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/105282102/",
+    "talks": [
+      {
+        "presenter": "Matt Shwery",
+        "title": "",
+        "description": "Matt Shwery will present about how small layout and markup decisions can simplify responsive design, reduce markup complexity, and make managing CSS breakpoints a breeze."
+      },
+      {
+        "presenter": "Joe Ellis",
+        "title": "",
+        "description": "Joe plans to give a quick walkthrough on his tips, tricks, and best practices learned from dealing with CSS in medium to large web applications."
+      },
+      {
+        "presenter": "Brian Danos",
+        "title": "",
+        "description": "Brian Danos's talk, \"CSS Sugar\" will cover topics from filters to transforms. Or as Brian has eloquently put it, \"Effects so sweet they'll make your teeth rot.\""
+      }
+    ]
+  }
+]
