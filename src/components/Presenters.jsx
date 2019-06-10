@@ -57,7 +57,13 @@ class Presenters extends Component {
     return (
       <div className="presenters-container">
         <div className="presenters" onClick={this.handleCardClick}>
-          <span className="presenters-pointer">&#128072;</span>
+          <span
+            role="img"
+            aria-label="Pointer"
+            className="presenters-pointer"
+          >
+            &#128072;
+          </span>
           {speakers}
         </div>
       </div>
