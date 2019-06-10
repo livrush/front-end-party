@@ -12,7 +12,12 @@ const Header = () => (
     </h2>
     <p className="title-4">
       A monthly&nbsp;
-      <a href="https://www.meetup.com/FrontEndParty/" target="_blank" className="link-delay rainbow-text">
+      <a 
+        href="https://www.meetup.com/FrontEndParty/" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="link-delay rainbow-text"
+      >
         meetup
       </a>
       &nbsp;in <strong>New Orleans</strong>
@@ -21,7 +26,12 @@ const Header = () => (
     </p>
     <p className="title-4">
       Every <strong>third Tuesday</strong> at&nbsp;
-      <a href="https://www.acehotel.com/neworleans/" target="_blank" className="link-delay rainbow-text">
+      <a 
+        href="https://www.acehotel.com/neworleans/" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="link-delay rainbow-text"
+      >
         <strong>Ace Hotel</strong>
       </a>
     </p>
