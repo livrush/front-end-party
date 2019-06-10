@@ -9,13 +9,24 @@ const Speaker = ({
 }) => {
   const speaker = presenters[presenter];
 
-  console.log(speaker);
+  const headshot = speaker.headshot
+    ? speaker.headshot
+    : `https://avatars.dicebear.com/v2/identicon/${speaker.name}.svg`;
 
   return (
     <div style={style} className="speaker">
-      <p>
-        {presenter}
-      </p>
+      <div className="speaker-header">
+        <div className="speaker-header-left">
+          <img className="speaker-headshot" src={headshot} alt=""/>
+        </div>
+        <div className="speaker-header-right">
+          <p>
+            <strong>
+              {presenter}
+            </strong>
+          </p>
+        </div>
+      </div>
       <p>
         {title}
       </p>
