@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 107, ../sass/index.scss */
 .presenters {
-  height: 22.5rem;
+  height: 26rem;
   position: relative;
 }
 
@@ -148,16 +148,23 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 5px;
   font-size: 1rem;
   height: 20rem;
-  left: 50%;
-  margin: 1.25rem 0.5rem;
-  overflow: scroll;
+  margin: 1.25rem 0;
+  overflow: hidden;
   padding: 1rem;
   position: absolute;
-  transform: translateX(-50%);
   width: 15rem;
 }
+/* line 127, ../sass/index.scss */
+.speaker:nth-child(2) {
+  left: 1rem;
+}
+/* line 130, ../sass/index.scss */
+.speaker:nth-child(3) {
+  left: 2rem;
+  top: 2rem;
+}
 
-/* line 131, ../sass/index.scss */
+/* line 136, ../sass/index.scss */
 .footer {
   background-image: url(../assets/confetti-footer.svg);
   background-repeat: repeat-x;
@@ -166,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 2rem 10rem;
 }
 
-/* line 139, ../sass/index.scss */
+/* line 144, ../sass/index.scss */
 .content,
 .meetup {
   text-align: left;

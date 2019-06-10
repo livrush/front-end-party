@@ -5,13 +5,14 @@ const Speaker = ({
   title,
   presenter,
   description,
+  style,
 }) => {
   const speaker = presenters[presenter];
 
   console.log(speaker);
 
   return (
-    <div className="speaker">
+    <div style={style} className="speaker">
       <p>
         {presenter}
       </p>
