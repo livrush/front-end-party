@@ -10,8 +10,11 @@
 html {
   background-image: url(../assets/confetti-bg.svg);
   background-position: top center;
-  font-size: 16px;
+  font-size: 12px;
   text-align: center;
+  @include for-sm {
+    font-size: 16px;
+  }
 }
 
 body {
@@ -56,7 +59,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .emoji-lg {
   font-size: 10rem;
-  margin-bottom: 2rem;
 }
 
 .title-2 {
@@ -84,7 +86,11 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: repeat-x;
   background-position: top center;
   background-size: auto 16rem;
-  padding: 5rem 0;
+  padding: 5rem 2rem;
+}
+
+.content {
+  padding: 7rem 1rem;
 }
 
 .content-title {
@@ -93,11 +99,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .content-body {
   font-size: 1.25rem;
-  padding-left: 5rem;
+  @include for-sm {
+    padding-left: 5rem;
+  }
 }
 
 .presenters {
-  display: inline-flex;
+  height: 22.5rem;
+  position: relative;
 }
 
 .speaker {
@@ -105,21 +114,26 @@ h1, h2, h3, h4, h5, h6 {
   animation-duration: 60s;
   animation-delay: -5s;
   animation-iteration-count: infinite;
-  border: 1px solid purple;
-  padding: 1rem;
-  margin: 0.5rem;
-  width: 45%;
-  height: 15rem;
+  background: #ffffff;
+  border: 2px solid $purple;
+  border-radius: 5px;
+  font-size: 1rem;
+  height: 20rem;
+  left: 50%;
+  margin: 1.25rem 0.5rem;
   overflow: scroll;
-  width: 10rem;
+  padding: 1rem;
+  position: absolute;
+  transform: translateX(-50%);
+  width: 15rem;
 }
 
 .footer {
-  padding-bottom: 10rem;
   background-image: url(../assets/confetti-footer.svg);
   background-repeat: repeat-x;
   background-position: bottom center;
   background-size: auto 16rem;
+  padding: 0 2rem 10rem;
 }
 
 .content,
@@ -147,10 +161,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @keyframes rainbow-border {
-  0% { border: 1px solid $purple; }
-  20% { border: 1px solid $red; }
-  40% { border: 1px solid $yellow; }
-  60% { border: 1px solid $green; }
-  80% { border: 1px solid $blue; }
-  100% { border: 1px solid $purple; }
+  0% { border-color: $purple; }
+  20% { border-color: $red; }
+  40% { border-color: $yellow; }
+  60% { border-color: $green; }
+  80% { border-color: $blue; }
+  100% { border-color: $purple; }
 }
