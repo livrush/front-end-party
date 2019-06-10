@@ -1,0 +1,32 @@
+
+@keyframes rainbow-text {
+  0% { color: $purple; }
+  20% { color: $red; }
+  40% { color: $yellow; }
+  60% { color: $green; }
+  80% { color: $blue; }
+  100% { color: $purple; }
+}
+
+@keyframes rainbow-border {
+  0% { border-color: $purple; }
+  20% { border-color: $red; }
+  40% { border-color: $yellow; }
+  60% { border-color: $green; }
+  80% { border-color: $blue; }
+  100% { border-color: $purple; }
+}
+
+@keyframes tap-finger {
+  0% { transform: rotate(20deg); }
+  40% { transform: rotate(10deg); }
+  60% { transform: rotate(-30deg); }
+  100% { transform: rotate(20deg); }
+}
+
+.rainbow-border {
+  animation-name: rainbow-border;
+  animation-duration: 60s;
+  animation-delay: -5s;
+  animation-iteration-count: infinite;
+}
