@@ -55,8 +55,11 @@ class Presenters extends Component {
     }
 
     return (
-      <div className="presenters" onClick={this.handleCardClick}>
-        { speakers }
+      <div className="presenters-container">
+        <div className="presenters" onClick={this.handleCardClick}>
+          <span className="presenters-pointer">&#128072;</span>
+          {speakers}
+        </div>
       </div>
     );
   };
