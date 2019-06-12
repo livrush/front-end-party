@@ -13,27 +13,25 @@ const Footer = () => (
         href="https://www.meetup.com/FrontEndParty/events/"
         target="_blank"
         rel="noopener noreferrer"
-        className="link-delay rainbow-text"
+        className="footer-link link-delay rainbow-text"
       >
-        Meetup
+        <i className="fab fa-meetup" />
       </a>
-      &nbsp;
       <a
         href="https://twitter.com/frontendparty"
         target="_blank"
         rel="noopener noreferrer"
-        className="link-delay rainbow-text"
+        className="footer-link link-delay rainbow-text"
       >
-        Twitter
+        <i className="fab fa-twitter" />
       </a>
-      &nbsp;
       <a
         href="https://docs.google.com/forms/d/e/1FAIpQLScFo6zMLuMkzkbbLTuSCfkDI-gI--t-633NXpzg9jJ9fz4LHQ/viewform?formkey=dC1SQlBHdU5yS2xKODR0bjR5QTFENHc6MQ"
         target="_blank"
         rel="noopener noreferrer"
-        className="link-delay rainbow-text"
+        className="footer-link link-delay rainbow-text"
       >
-        Apply
+        <i className="fas fa-paper-plane" />
       </a>
     </div>
   </footer>
