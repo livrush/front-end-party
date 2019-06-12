@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Content from './Content';
 import Presenters from './Presenters';
+import Organizers from './Organizers';
 
 const Home = () => {
   return (
@@ -42,6 +43,7 @@ const Home = () => {
         title="The Organizers"
       >
         <p>Here are some helpful faces to look for when you arrive:</p>
+        <Organizers />
       </Content>
     </div>
   );
