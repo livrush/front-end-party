@@ -12,3 +12,7 @@ yarn start
 ## Develop
 
 Styles are written in Sass using Compass. If you have Compass installed you can compile Sass by running `npm run style`.
+
+## Deploy
+
+TBD
