@@ -1,21 +1,24 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => (
   <header className="header">
     <h1 className="emoji-lg">
-      <span role="img" aria-label="Party Popper">
-        &#127881;
-      </span>
+        <span role="img" aria-label="Party Popper">
+          &#127881;
+        </span>
     </h1>
-    <h2 className="title-2">
-      #FrontEndParty
+    <h2>
+      <Link to="/" className="title-2 rainbow-text link-delay">
+        #FrontEndParty
+      </Link>
     </h2>
     <p className="title-4">
       A monthly&nbsp;
-      <a 
-        href="https://www.meetup.com/FrontEndParty/" 
-        target="_blank" 
-        rel="noopener noreferrer" 
+      <a
+        href="https://www.meetup.com/FrontEndParty/"
+        target="_blank"
+        rel="noopener noreferrer"
         className="link-delay rainbow-text"
       >
         meetup
@@ -26,10 +29,10 @@ const Header = () => (
     </p>
     <p className="title-4">
       Every <strong>third Tuesday</strong> at&nbsp;
-      <a 
-        href="https://www.acehotel.com/neworleans/" 
-        target="_blank" 
-        rel="noopener noreferrer" 
+      <a
+        href="https://www.acehotel.com/neworleans/"
+        target="_blank"
+        rel="noopener noreferrer"
         className="link-delay rainbow-text"
       >
         <strong>Ace Hotel</strong>
