@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Cameron Sampson",
+    "headshot": "/src/assets/headshots/cameron-sampson.png",
+    "emoji": "\uD83C\uDF88",
+    "social": {
+      "website": "http://cameronsampson.com/",
+      "linkedin": "https://www.linkedin.com/in/cameronsampson/",
+      "github": "https://github.com/csampson",
+      "twitter": ""
+    }
+  },
+  {
+    "name": "Steven Achord",
+    "headshot": "https://ca.slack-edge.com/T028DDR96-U1A8K2K2Q-ca550371246b-72",
+    "emoji": "\uD83C\uDF8A",
+    "social": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/steven-achord-95399b7",
+      "github": "",
+      "twitter": "https://twitter.com/StevenAchord"
+    }
+  },
+  {
+    "name": "Olivia Sabo-Rush",
+    "headshot": "https://ca.slack-edge.com/T028DDR96-U4T5WQYTC-74c174062b77-72",
+    "emoji": "\u2728",
+    "social": {
+      "website": "http://pafiu.me",
+      "linkedin": "https://www.linkedin.com/in/livrush",
+      "github": "https://github.com/livrush",
+      "twitter": "https://twitter.com/pafiume"
+    }
+  }
+]
