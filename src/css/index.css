@@ -57,7 +57,7 @@
   }
 }
 /* line 27, ../sass/_animations.scss */
-.rainbow-border, .speaker, .speaker-headshot {
+.rainbow-border, .speaker, .headshot, .speaker-headshot, .organizer-headshot {
   animation-name: rainbow-border;
   animation-duration: 60s;
   animation-delay: -5s;
@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6 {
 .presenters {
   height: 26rem;
   position: relative;
-  width: 17rem;
+  width: 20rem;
   cursor: pointer;
 }
 
@@ -230,39 +230,86 @@ h1, h2, h3, h4, h5, h6 {
   background: #ffffff;
   border: 2px solid #9445CA;
   border-radius: 5px;
+  cursor: pointer;
   font-size: 1rem;
   height: 20rem;
   margin: 1.25rem 0;
   overflow: hidden;
   padding: 1rem;
   position: absolute;
+  transition: 300ms;
   width: 15rem;
 }
-/* line 148, ../sass/index.scss */
+/* line 150, ../sass/index.scss */
 .speaker:nth-child(2) {
-  left: 1rem;
-}
-/* line 151, ../sass/index.scss */
-.speaker:nth-child(3) {
   left: 2rem;
+}
+/* line 153, ../sass/index.scss */
+.speaker:nth-child(3) {
+  left: 4rem;
   top: 2rem;
 }
 
-/* line 157, ../sass/index.scss */
+/* line 159, ../sass/index.scss */
 .speaker-header {
   display: flex;
 }
 
-/* line 161, ../sass/index.scss */
-.speaker-headshot {
-  border: 2px solid;
+/* line 163, ../sass/index.scss */
+.headshot, .speaker-headshot, .organizer-headshot {
+  border: 3px solid;
   border-radius: 100%;
+}
+
+/* line 169, ../sass/index.scss */
+.speaker-headshot {
   margin-right: 1rem;
   height: 3rem;
   width: 3rem;
 }
 
-/* line 170, ../sass/index.scss */
+/* line 176, ../sass/index.scss */
+.organizers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* line 182, ../sass/index.scss */
+.organizer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 20rem;
+  justify-content: center;
+  padding: 1rem;
+  margin: 0.5rem;
+  width: 12rem;
+}
+/* line 191, ../sass/index.scss */
+.organizer > * {
+  margin-bottom: 1rem;
+}
+
+/* line 196, ../sass/index.scss */
+.organizer-headshot {
+  height: 10rem;
+  width: 10rem;
+}
+
+/* line 202, ../sass/index.scss */
+.organizer-social-link {
+  font-size: 1.5rem;
+  margin: 0 0.5rem;
+  padding: 0.25rem;
+}
+
+/* line 208, ../sass/index.scss */
+.organizer-emoji {
+  font-size: 2.5rem;
+}
+
+/* line 212, ../sass/index.scss */
 .footer {
   background-image: url(../assets/confetti-footer.svg);
   background-repeat: repeat-x;
@@ -271,7 +318,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 2rem 10rem;
 }
 
-/* line 178, ../sass/index.scss */
+/* line 220, ../sass/index.scss */
+.footer-link {
+  margin: 1rem;
+}
+
+/* line 224, ../sass/index.scss */
 .content,
 .meetup {
   text-align: left;
