@@ -11,7 +11,9 @@ const Home = () => {
         emoji="&#128161;"
         title="The Idea"
       >
-        <p>Are you a developer on the front-end side of things, looking to learn the latest HTML5 / CSS3 / Javascript tricks and hacks? Are you a designer who would love a second set of eyes on their latest work, or to talk about the newest design trends and styles? If this sounds like you, then come join us at the next #FrontEndParty and throw your ideas into the mix!</p>
+        <p>Are you a developer on the front-end side of things, looking to learn the latest HTML5 / CSS3 / Javascript tricks and hacks?</p>
+        <p>Are you a designer who would love a second set of eyes on their latest work, or to talk about the newest design trends and styles?</p>
+        <p>If this sounds like you, then come join us at the next #FrontEndParty and throw your ideas into the mix!</p>
       </Content>
       <Content
         emoji="&#127873;"
