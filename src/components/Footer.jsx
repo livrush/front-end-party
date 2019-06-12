@@ -26,6 +26,18 @@ const Footer = () => (
         <i className="fab fa-twitter" />
       </a>
       <a
+        href="/archive"
+        className="footer-link link-delay rainbow-text"
+      >
+        <i className="fas fa-book" />
+      </a>
+      <a
+        href="/code-of-conduct"
+        className="footer-link link-delay rainbow-text"
+      >
+        <i className="fas fa-gavel" />
+      </a>
+      <a
         href="https://docs.google.com/forms/d/e/1FAIpQLScFo6zMLuMkzkbbLTuSCfkDI-gI--t-633NXpzg9jJ9fz4LHQ/viewform?formkey=dC1SQlBHdU5yS2xKODR0bjR5QTFENHc6MQ"
         target="_blank"
         rel="noopener noreferrer"
