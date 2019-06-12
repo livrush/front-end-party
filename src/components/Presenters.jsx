@@ -47,27 +47,30 @@ class Presenters extends Component {
 
     let speakers;
     if (month === recentMonth && year === recentYear) {
-      speakers = mostRecentMeetup.talks.map((talk, i) => {
+      const speakerCards = mostRecentMeetup.talks.map((talk, i) => {
         return <Speaker key={talk + i} style={cardStyles[i]} {...talk} />;
       });
+      speakers = (
+        <div className="presenters-container">
+          <div className="presenters" onClick={this.handleCardClick}>
+            <span
+              role="img"
+              aria-label="Pointer"
+              className="presenters-pointer"
+            >
+              &#128072;
+            </span>
+            {speakerCards}
+          </div>
+        </div>
+      );
     } else {
-      speakers = 'Check back soon for this month\'s speakers!';
+      speakers = (
+        <p className="presenters-tbd">Come back soon for this month's speakers!</p>
+      );
     }
 
-    return (
-      <div className="presenters-container">
-        <div className="presenters" onClick={this.handleCardClick}>
-          <span
-            role="img"
-            aria-label="Pointer"
-            className="presenters-pointer"
-          >
-            &#128072;
-          </span>
-          {speakers}
-        </div>
-      </div>
-    );
+    return speakers;
   };
 };
 
