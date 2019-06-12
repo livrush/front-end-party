@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Home from './components/Home';
 import Archive from './components/Archive';
 import Footer from './components/Footer';
+import CodeOfConduct from './components/CodeOfConduct';
 
 function App() {
   return (
@@ -21,6 +22,11 @@ function App() {
               exact
               path="/archive"
               component={Archive}
+            />
+            <Route
+              exact
+              path="/code-of-conduct"
+              component={CodeOfConduct}
             />
           </Switch>
         </div>
