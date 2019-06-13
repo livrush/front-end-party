@@ -6,9 +6,11 @@ const Talk = ({
   description,
 }) => (
   <Fragment>
-    <h4 className="talk-title">{title}</h4>
-    <p className="talk-presenter">
+    <h3 className="talk-presenter">
       {presenter}
+    </h3>
+    <p className="talk-title">
+      {title}
     </p>
     <p className="talk-description">
       {description}

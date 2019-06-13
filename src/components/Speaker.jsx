@@ -16,9 +16,11 @@ const Speaker = ({
   return (
     <div style={style} className="speaker">
       <div className="speaker-top">
-        <img className="speaker-headshot" src={headshot} alt="" />
+        <div className="speaker-headshot-container">
+          <img className="speaker-headshot" src={headshot} alt="" />
+        </div>
         <div className="speaker-information">
-          <p class="speaker-name">{presenter}</p>
+          <h3 class="speaker-name">{presenter}</h3>
           <div className="organizer-social-media">
             {speaker.social.website ? (
               <a

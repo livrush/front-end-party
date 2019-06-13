@@ -8,7 +8,7 @@ const Organizers = () => (
         <div className="organizer">
           <img src={organizer.headshot} className="organizer-headshot" alt={`${organizer.name}-headshot`} />
           <h4 className="organizer-name">{organizer.name}</h4>
-          <div className="organizer-social-media">
+          <p className="organizer-social-media">
             {
               organizer.social.website ?
               <a href={organizer.social.website} className="organizer-social-link link-delay rainbow-text">
@@ -37,7 +37,7 @@ const Organizers = () => (
               </a> :
               null
             }
-          </div>
+          </p>
           <span className="organizer-emoji" role="img">{organizer.emoji}</span>
         </div>
       ))
