@@ -1,5 +1,6 @@
 import React from 'react';
 import Content from './Content';
+import links from '../archive/links';
 
 const CodeOfConduct = () => {
   return (
@@ -152,7 +153,7 @@ const CodeOfConduct = () => {
           <li>
             <a
               className="rainbow-text link-delay"
-              href="https://www.meetup.com/FrontEndParty/members/52557152/"
+              href={`${links.meetup}/members/52557152`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -162,11 +163,21 @@ const CodeOfConduct = () => {
           <li>
             <a
               className="rainbow-text link-delay"
-              href="https://www.meetup.com/FrontEndParty/members/185213572/"
+              href={`${links.meetup}/members/185213572`}
               target="_blank"
               rel="noopener noreferrer"
             >
               Steven Achord
+            </a>
+          </li>
+          <li>
+            <a
+              className="rainbow-text link-delay"
+              href={`${links.meetup}/members/209914925`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Olivia Sabo-Rush
             </a>
           </li>
         </ul>

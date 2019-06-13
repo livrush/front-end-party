@@ -1,4 +1,5 @@
 import React from 'react';
+import links from '../archive/links';
 
 const Footer = () => (
   <footer className="footer">
@@ -11,7 +12,7 @@ const Footer = () => (
     <div className="links-out title-3">
       <div className="links-out-section">
         <a
-          href="https://www.meetup.com/FrontEndParty/events/"
+          href={links.meetup}
           target="_blank"
           rel="noopener noreferrer"
           className="footer-link link-delay rainbow-text"
@@ -19,31 +20,31 @@ const Footer = () => (
           <i className="fab fa-meetup" />
         </a>
         <a
-          href="https://twitter.com/frontendparty"
+          href={links.twitter}
           target="_blank"
           rel="noopener noreferrer"
           className="footer-link link-delay rainbow-text"
         >
           <i className="fab fa-twitter" />
         </a>
-        <a href="/archive" className="footer-link link-delay rainbow-text">
-          <i className="fas fa-book" />
-        </a>
-      </div>
-      <div className="links-out-section">
         <a
-          href="/code-of-conduct"
-          className="footer-link link-delay rainbow-text"
-        >
-          <i className="fas fa-gavel" />
-        </a>
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScFo6zMLuMkzkbbLTuSCfkDI-gI--t-633NXpzg9jJ9fz4LHQ/viewform?formkey=dC1SQlBHdU5yS2xKODR0bjR5QTFENHc6MQ"
+          href={links.presentationApplication}
           target="_blank"
           rel="noopener noreferrer"
           className="footer-link link-delay rainbow-text"
         >
           <i className="fas fa-paper-plane" />
+        </a>
+      </div>
+      <div className="links-out-section">
+        <a href="/archive" className="footer-link link-delay rainbow-text">
+          <i className="fas fa-book" />
+        </a>
+        <a
+          href="/code-of-conduct"
+          className="footer-link link-delay rainbow-text"
+        >
+          <i className="fas fa-gavel" />
         </a>
       </div>
     </div>

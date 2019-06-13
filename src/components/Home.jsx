@@ -2,6 +2,7 @@ import React from 'react';
 import Content from './Content';
 import Presenters from './Presenters';
 import Organizers from './Organizers';
+import links from '../archive/links';
 
 const Home = () => {
   return (
@@ -32,7 +33,7 @@ const Home = () => {
           professionals? We want to see you present!{' '}
           <a
             className="rainbow-text link-delay"
-            href="https://docs.google.com/forms/d/e/1FAIpQLScFo6zMLuMkzkbbLTuSCfkDI-gI--t-633NXpzg9jJ9fz4LHQ/viewform?formkey=dC1SQlBHdU5yS2xKODR0bjR5QTFENHc6MQ"
+            href={links.presentationApplication}
           >
             Apply here to talk!
           </a>
@@ -98,7 +99,7 @@ const Home = () => {
           You can find all of this information and more on our&nbsp;
           <a
             className="rainbow-text link-delay"
-            href="https://www.meetup.com/FrontEndParty/"
+            href={links.meetup}
             target="_blank"
             rel="noopener noreferrer"
           >
