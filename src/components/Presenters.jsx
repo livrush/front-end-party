@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import moment from 'moment';
 import archive from '../archive/meetups.json';
 import Speaker from './Speaker';
@@ -59,7 +59,16 @@ class Presenters extends Component {
       );
     } else {
       speakers = (
-        <p className="presenters-tbd">Come back soon for this month's speakers!</p>
+        <Fragment>
+          <p className="emoji-lg no-speaker-monkey">
+            <span role="img" aria-label="monkey-with-eyes-closed-emoji">
+              &#128584;
+            </span>
+          </p>
+          <p className="presenters-tbd">
+            Come back soon for this month's speakers!
+          </p>
+        </Fragment>
       );
     }
 
