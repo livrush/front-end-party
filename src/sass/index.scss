@@ -70,6 +70,9 @@ h1, h2, h3, h4, h5, h6 {
 .title-2 {
   font-size: 4rem;
   margin-bottom: 1rem;
+  @include for-xs {
+    font-size: 3rem;
+  }
 }
 
 .title-3 {
@@ -81,6 +84,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2rem;
   line-height: 1.25;
   margin-bottom: 1rem;
+  @include for-xs {
+    font-size: 1.5rem;
+  }
 }
 
 .header {
@@ -109,29 +115,6 @@ h1, h2, h3, h4, h5, h6 {
   @include for-sm {
     padding-left: 5rem;
   }
-}
-
-.presenters-container {
-  // display: flex;
-  // justify-content: center;
-}
-
-.presenters {
-  // height: 26rem;
-  position: relative;
-  // width: 20rem;
-  cursor: pointer;
-}
-
-.presenters-pointer {
-  animation-name: tap-finger;
-  animation-duration: 1s;
-  animation-iteration-count: infinite;
-  font-size: 5rem;
-  position: absolute;
-  right: -3rem;
-  top: -1rem;
-  z-index: 40;
 }
 
 .speaker {
