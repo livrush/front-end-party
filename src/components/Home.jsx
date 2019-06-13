@@ -35,9 +35,8 @@ const Home = () => {
             className="rainbow-text link-delay"
             href="https://docs.google.com/forms/d/e/1FAIpQLScFo6zMLuMkzkbbLTuSCfkDI-gI--t-633NXpzg9jJ9fz4LHQ/viewform?formkey=dC1SQlBHdU5yS2xKODR0bjR5QTFENHc6MQ"
           >
-            Apply here to talk
+            Apply here to talk!
           </a>
-          !
         </p>
         <p>
           <strong>Discuss & Network</strong>
@@ -54,10 +53,9 @@ const Home = () => {
         <Presenters />
         <p>
           Check out our{' '}
-          <Link to="archive" className="rainbow-text link-delay">
-            presentation archive
-          </Link>
-          !
+          <a href="/archive" className="rainbow-text link-delay">
+            presentation archive!
+          </a>
         </p>
       </Content>
       <Content emoji="&#128205;" title="The When & Where">
