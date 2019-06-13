@@ -1,7 +1,7 @@
 [
   {
     "name": "Cameron Sampson",
-    "headshot": "/src/assets/headshots/cameron-sampson.png",
+    "headshot": "/images/headshots/cameron-sampson.png",
     "emoji": "\uD83C\uDF88",
     "social": {
       "website": "http://cameronsampson.com/",
@@ -12,7 +12,7 @@
   },
   {
     "name": "Steven Achord",
-    "headshot": "https://ca.slack-edge.com/T028DDR96-U1A8K2K2Q-ca550371246b-72",
+    "headshot": "/images/headshots/steven-achord.png",
     "emoji": "\uD83C\uDF8A",
     "social": {
       "website": "",
