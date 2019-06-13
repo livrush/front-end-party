@@ -57,7 +57,7 @@
   }
 }
 /* line 27, ../sass/_animations.scss */
-.rainbow-border, .headshot, .speaker-headshot, .organizer-headshot {
+.rainbow-border, .headshot, .speaker-headshot, .organizer-headshot, .meetup-divider {
   animation-name: rainbow-border;
   animation-duration: 60s;
   animation-delay: -5s;
@@ -68,63 +68,57 @@
 html {
   background-image: url(../assets/confetti-bg.svg);
   background-position: top center;
-  font-size: 12px;
+  font-size: 16px;
   text-align: center;
 }
-@media (min-width: 600px) {
-  /* line 11, ../sass/index.scss */
-  html {
-    font-size: 16px;
-  }
-}
 
-/* line 21, ../sass/index.scss */
+/* line 18, ../sass/index.scss */
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* line 27, ../sass/index.scss */
+/* line 24, ../sass/index.scss */
 p:first-child {
   margin-top: 0;
 }
 
-/* line 31, ../sass/index.scss */
-.bold, .speaker-name, .speaker-presentation {
+/* line 28, ../sass/index.scss */
+.bold, .speaker-name, .speaker-presentation, .talk-presenter {
   font-weight: bold;
 }
 
-/* line 35, ../sass/index.scss */
+/* line 32, ../sass/index.scss */
 .page-contents {
   margin: auto;
 }
 @media (min-width: 600px) {
-  /* line 35, ../sass/index.scss */
+  /* line 32, ../sass/index.scss */
   .page-contents {
     width: 500px;
   }
 }
 @media (min-width: 900px) {
-  /* line 35, ../sass/index.scss */
+  /* line 32, ../sass/index.scss */
   .page-contents {
     width: 600px;
   }
 }
 @media (min-width: 1200px) {
-  /* line 35, ../sass/index.scss */
+  /* line 32, ../sass/index.scss */
   .page-contents {
     width: 900px;
   }
 }
 @media (min-width: 1800px) {
-  /* line 35, ../sass/index.scss */
+  /* line 32, ../sass/index.scss */
   .page-contents {
     width: 1200px;
   }
 }
 
-/* line 51, ../sass/index.scss */
+/* line 48, ../sass/index.scss */
 .rainbow-text {
   animation-name: rainbow-text;
   animation-duration: 60s;
@@ -132,44 +126,44 @@ p:first-child {
   font-family: Source Sans Pro;
 }
 
-/* line 58, ../sass/index.scss */
+/* line 55, ../sass/index.scss */
 .link-delay {
   animation-delay: -10s;
   font-family: inherit;
   font-weight: bold;
 }
 
-/* line 64, ../sass/index.scss */
+/* line 61, ../sass/index.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: Fredoka One;
   margin: 0;
 }
 
-/* line 69, ../sass/index.scss */
+/* line 66, ../sass/index.scss */
 .emoji-lg {
   font-size: 10rem;
 }
 
-/* line 73, ../sass/index.scss */
+/* line 70, ../sass/index.scss */
 .title-2 {
   font-size: 4rem;
   margin-bottom: 1rem;
 }
 
-/* line 78, ../sass/index.scss */
+/* line 75, ../sass/index.scss */
 .title-3 {
   font-size: 3rem;
   margin-bottom: 1rem;
 }
 
-/* line 83, ../sass/index.scss */
+/* line 80, ../sass/index.scss */
 .title-4 {
   font-size: 2rem;
   line-height: 1.25;
   margin-bottom: 1rem;
 }
 
-/* line 89, ../sass/index.scss */
+/* line 86, ../sass/index.scss */
 .header {
   display: flex;
   flex-direction: column;
@@ -182,35 +176,35 @@ h1, h2, h3, h4, h5, h6 {
   padding: 5rem 2rem;
 }
 
-/* line 101, ../sass/index.scss */
+/* line 98, ../sass/index.scss */
 .content {
-  padding: 7rem 1rem;
+  padding: 3.5rem 1rem;
 }
 
-/* line 105, ../sass/index.scss */
+/* line 102, ../sass/index.scss */
 .content-title {
   font-size: 2.25rem;
   margin-bottom: 2rem;
 }
 
-/* line 110, ../sass/index.scss */
+/* line 107, ../sass/index.scss */
 .content-body {
   font-size: 1.25rem;
 }
 @media (min-width: 600px) {
-  /* line 110, ../sass/index.scss */
+  /* line 107, ../sass/index.scss */
   .content-body {
     padding-left: 5rem;
   }
 }
 
-/* line 122, ../sass/index.scss */
+/* line 119, ../sass/index.scss */
 .presenters {
   position: relative;
   cursor: pointer;
 }
 
-/* line 129, ../sass/index.scss */
+/* line 126, ../sass/index.scss */
 .presenters-pointer {
   animation-name: tap-finger;
   animation-duration: 1s;
@@ -222,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 40;
 }
 
-/* line 140, ../sass/index.scss */
+/* line 137, ../sass/index.scss */
 .speaker {
   display: flex;
   flex-direction: column;
@@ -231,91 +225,129 @@ h1, h2, h3, h4, h5, h6 {
   padding: 1rem;
   transition: 300ms;
 }
-/* line 147, ../sass/index.scss */
-.speaker:nth-child(2) {
-  left: 2rem;
-}
-/* line 150, ../sass/index.scss */
-.speaker:nth-child(3) {
-  left: 4rem;
-  top: 2rem;
+
+/* line 146, ../sass/index.scss */
+.speaker-top {
+  display: flex;
 }
 @media (max-width: 599px) {
-  /* line 140, ../sass/index.scss */
-  .speaker {
-    align-items: center;
+  /* line 146, ../sass/index.scss */
+  .speaker-top {
     flex-direction: column;
   }
 }
 
-/* line 160, ../sass/index.scss */
-.speaker-top {
-  display: flex;
-}
-
-/* line 172, ../sass/index.scss */
+/* line 161, ../sass/index.scss */
 .headshot, .speaker-headshot, .organizer-headshot {
   border: 0.25rem solid;
   border-radius: 100%;
   margin-bottom: 2rem;
 }
 
-/* line 179, ../sass/index.scss */
+/* line 168, ../sass/index.scss */
+.speaker-headshot-container {
+  display: flex;
+}
+@media (max-width: 599px) {
+  /* line 168, ../sass/index.scss */
+  .speaker-headshot-container {
+    justify-content: center;
+  }
+}
+
+/* line 175, ../sass/index.scss */
 .speaker-headshot {
   margin-right: 1rem;
   height: 8rem;
   width: 8rem;
 }
 @media (max-width: 599px) {
-  /* line 179, ../sass/index.scss */
+  /* line 175, ../sass/index.scss */
   .speaker-headshot {
     height: 12rem;
     width: 12rem;
   }
 }
 
-/* line 190, ../sass/index.scss */
+/* line 186, ../sass/index.scss */
 .organizers {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
+@media (max-width: 599px) {
+  /* line 186, ../sass/index.scss */
+  .organizers {
+    justify-content: center;
+  }
+}
 
-/* line 196, ../sass/index.scss */
+/* line 195, ../sass/index.scss */
 .organizer {
   align-items: center;
   display: flex;
   flex-direction: column;
-  height: 20rem;
   justify-content: center;
   padding: 1rem;
-  margin: 0.5rem;
+  margin: 1rem;
   width: 12rem;
 }
-/* line 205, ../sass/index.scss */
+/* line 203, ../sass/index.scss */
 .organizer > * {
   margin-bottom: 1rem;
 }
+@media (max-width: 599px) {
+  /* line 195, ../sass/index.scss */
+  .organizer {
+    width: 100%;
+  }
+}
 
-/* line 210, ../sass/index.scss */
+@media (max-width: 599px) {
+  /* line 211, ../sass/index.scss */
+  .organizer-name {
+    font-size: 2rem;
+  }
+}
+
+/* line 217, ../sass/index.scss */
 .organizer-headshot {
   height: 10rem;
   width: 10rem;
 }
+@media (max-width: 599px) {
+  /* line 217, ../sass/index.scss */
+  .organizer-headshot {
+    height: 12rem;
+    width: 12rem;
+  }
+}
 
-/* line 216, ../sass/index.scss */
+/* line 227, ../sass/index.scss */
 .organizer-social-link {
   font-size: 1.5rem;
   margin: 0 0.5rem;
   padding: 0.25rem;
 }
+@media (max-width: 599px) {
+  /* line 227, ../sass/index.scss */
+  .organizer-social-link {
+    font-size: 2.5rem;
+  }
+}
 
-/* line 222, ../sass/index.scss */
+/* line 236, ../sass/index.scss */
 .organizer-emoji {
   font-size: 2.5rem;
 }
+@media (max-width: 599px) {
+  /* line 236, ../sass/index.scss */
+  .organizer-emoji {
+    font-size: 3.5rem;
+  }
+}
 
-/* line 226, ../sass/index.scss */
+/* line 243, ../sass/index.scss */
 .footer {
   background-image: url(../assets/confetti-footer.svg);
   background-repeat: repeat-x;
@@ -324,15 +356,31 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 2rem 10rem;
 }
 
-/* line 234, ../sass/index.scss */
+/* line 251, ../sass/index.scss */
 .footer-link {
   margin: 1rem;
 }
 
-/* line 238, ../sass/index.scss */
+/* line 255, ../sass/index.scss */
 .content,
 .meetup {
   text-align: left;
+}
+
+/* line 260, ../sass/index.scss */
+.archive {
+  margin: 1rem;
+}
+
+/* line 264, ../sass/index.scss */
+.meetup-number,
+.meetup-date {
+  margin: 1rem 0;
+}
+
+/* line 273, ../sass/index.scss */
+.meetup-divider {
+  margin: 3rem 1rem;
 }
 
 @keyframes App-logo-spin {

@@ -11,11 +11,8 @@
 html {
   background-image: url(../assets/confetti-bg.svg);
   background-position: top center;
-  font-size: 12px;
+  font-size: 16px;
   text-align: center;
-  @include for-sm {
-    font-size: 16px;
-  }
 }
 
 body {
@@ -99,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content {
-  padding: 7rem 1rem;
+  padding: 3.5rem 1rem;
 }
 
 .content-title {
@@ -144,21 +141,13 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   padding: 1rem;
   transition: 300ms;
-  &:nth-child(2) {
-    left: 2rem;
-  }
-  &:nth-child(3) {
-    left: 4rem;
-    top: 2rem;
-  }
-  @include for-xs {
-    align-items: center;
-    flex-direction: column;
-  }
 }
 
 .speaker-top {
   display: flex;
+  @include for-xs {
+    flex-direction: column;
+  }
 }
 
 .speaker-name {
@@ -176,6 +165,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 2rem;
 }
 
+.speaker-headshot-container {
+  display: flex;
+  @include for-xs {
+    justify-content: center;
+  }
+}
+
 .speaker-headshot {
   @extend .headshot;
   margin-right: 1rem;
@@ -191,19 +187,30 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  @include for-xs {
+    justify-content: center;
+  }
 }
 
 .organizer {
   align-items: center;
   display: flex;
   flex-direction: column;
-  height: 20rem;
   justify-content: center;
   padding: 1rem;
-  margin: 0.5rem;
+  margin: 1rem;
   width: 12rem;
   & > * {
     margin-bottom: 1rem;
+  }
+  @include for-xs {
+    width: 100%;
+  }
+}
+
+.organizer-name {
+  @include for-xs {
+    font-size: 2rem;
   }
 }
 
@@ -211,16 +218,26 @@ h1, h2, h3, h4, h5, h6 {
   @extend .headshot;
   height: 10rem;
   width: 10rem;
+  @include for-xs {
+    height: 12rem;
+    width: 12rem;
+  }
 }
 
 .organizer-social-link {
   font-size: 1.5rem;
   margin: 0 0.5rem;
   padding: 0.25rem;
+  @include for-xs {
+    font-size: 2.5rem;
+  }
 }
 
 .organizer-emoji {
   font-size: 2.5rem;
+  @include for-xs {
+    font-size: 3.5rem;
+  }
 }
 
 .footer {
@@ -238,6 +255,24 @@ h1, h2, h3, h4, h5, h6 {
 .content,
 .meetup {
   text-align: left;
+}
+
+.archive {
+  margin: 1rem;
+}
+
+.meetup-number,
+.meetup-date {
+  margin: 1rem 0;
+}
+
+.talk-presenter {
+  @extend .bold;
+}
+
+.meetup-divider {
+  @extend .rainbow-border;
+  margin: 3rem 1rem;
 }
 
 @keyframes App-logo-spin {
