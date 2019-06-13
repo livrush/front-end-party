@@ -49,7 +49,7 @@ p:first-child {
   animation-name: rainbow-text;
   animation-duration: 60s;
   animation-iteration-count: infinite;
-  font-family: Source Sans Pro;
+  font-family: 'Open Sans', Arial, sans-serif;
 }
 
 .link-delay {
@@ -59,7 +59,7 @@ p:first-child {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Fredoka One;
+  font-family: 'Fredoka One', sans-serif;
   margin: 0;
 }
 
@@ -104,6 +104,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .content {
   padding: 3.5rem 1rem;
+  @include for-xs {
+    padding: 3.5rem 2rem;
+  }
 }
 
 .content-title {
@@ -192,7 +195,6 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   padding: 1rem;
   margin: 1rem auto;
-  width: 12rem;
   & > * {
     margin-bottom: 1rem;
   }
@@ -202,9 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .organizer-name {
-  @include for-xs {
-    font-size: 2rem;
-  }
+  font-size: 1.75rem;
 }
 
 .organizer-headshot {
@@ -215,6 +215,10 @@ h1, h2, h3, h4, h5, h6 {
     height: 12rem;
     width: 12rem;
   }
+}
+
+.organizer-social-media {
+  margin-top: 0;
 }
 
 .organizer-social-link {
