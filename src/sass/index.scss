@@ -102,6 +102,14 @@ h1, h2, h3, h4, h5, h6 {
   padding: 5rem 2rem;
 }
 
+.title {
+  display: flex;
+  justify-content: center;
+  @include for-xs {
+    flex-direction: column;
+  }
+}
+
 .content {
   padding: 3.5rem 1rem;
   @include for-xs {
