@@ -32,16 +32,16 @@ p:first-child {
 .page-contents {
   margin: auto;
   @include for-sm {
-    width: $width-sm;
+    width: 600px;
   }
   @include for-md {
-    width: $width-md;
+    width: 800px;
   }
   @include for-lg {
-    width: $width-lg;
+    width: 1100px;
   }
   @include for-xl {
-    width: $width-xl;
+    width: 1700px;
   }
 }
 
@@ -65,6 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .emoji-lg {
   font-size: 10rem;
+  text-align: center;
 }
 
 .title-2 {
@@ -114,6 +115,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.25rem;
   @include for-sm {
     padding-left: 5rem;
+  }
+}
+
+.no-speaker-monkey {
+  margin: 0;
+  margin-left: -5rem;
+  @include for-xs {
+    margin-left: 0;
   }
 }
 
@@ -169,9 +178,10 @@ h1, h2, h3, h4, h5, h6 {
 .organizers {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
+  margin-left: -5rem;
   @include for-xs {
-    justify-content: center;
+    margin-left: 0rem;
   }
 }
 
@@ -181,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   justify-content: center;
   padding: 1rem;
-  margin: 1rem;
+  margin: 1rem auto;
   width: 12rem;
   & > * {
     margin-bottom: 1rem;
