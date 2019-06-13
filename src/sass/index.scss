@@ -249,6 +249,14 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1rem;
 }
 
+.links-out {
+  display: flex;
+justify-content: center;  
+  @include for-xs {
+    flex-direction: column;
+  }
+}
+
 .content,
 .meetup {
   text-align: left;
