@@ -15,24 +15,48 @@ const Speaker = ({
 
   return (
     <div style={style} className="speaker">
-      <div className="speaker-header">
-        <div className="speaker-header-left">
-          <img className="speaker-headshot" src={headshot} alt=""/>
-        </div>
-        <div className="speaker-header-right">
-          <p>
-            <strong>
-              {presenter}
-            </strong>
-          </p>
+      <div className="speaker-top">
+        <img className="speaker-headshot" src={headshot} alt="" />
+        <div className="speaker-information">
+          <p class="speaker-name">{presenter}</p>
+          <div className="organizer-social-media">
+            {speaker.social.website ? (
+              <a
+                href={speaker.social.website}
+                className="speaker-social-link link-delay rainbow-text"
+              >
+                <i className="fas fa-globe" />
+              </a>
+            ) : null}
+            {speaker.social.github ? (
+              <a
+                href={speaker.social.github}
+                className="speaker-social-link link-delay rainbow-text"
+              >
+                <i className="fab fa-github" />
+              </a>
+            ) : null}
+            {speaker.social.linkedin ? (
+              <a
+                href={speaker.social.linkedin}
+                className="speaker-social-link link-delay rainbow-text"
+              >
+                <i className="fab fa-linkedin" />
+              </a>
+            ) : null}
+            {speaker.social.twitter ? (
+              <a
+                href={speaker.social.twitter}
+                className="speaker-social-link link-delay rainbow-text"
+              >
+                <i className="fab fa-twitter" />
+              </a>
+            ) : null}
+          </div>
+          <p className="speaker-presentation">{title}</p>
         </div>
       </div>
-      <p>
-        {title}
-      </p>
-      <p>
-        {description}
-      </p>
+      <p>{description}</p>
     </div>
   );
 };
