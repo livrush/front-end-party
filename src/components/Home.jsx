@@ -49,7 +49,7 @@ const Home = () => {
           common front-end development problems.
         </p>
       </Content>
-      <Content emoji="&#128111;" title="This Month's Presenters">
+      <Content emoji="&#128111;" title="The Presenters">
         <Presenters />
         <p>
           Check out our{' '}
