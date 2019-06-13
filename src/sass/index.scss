@@ -28,6 +28,10 @@ p:first-child {
   margin-top: 0;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .page-contents {
   margin: auto;
   @include for-sm {
@@ -111,14 +115,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .presenters-container {
-  display: flex;
-  justify-content: center;
+  // display: flex;
+  // justify-content: center;
 }
 
 .presenters {
-  height: 26rem;
+  // height: 26rem;
   position: relative;
-  width: 20rem;
+  // width: 20rem;
   cursor: pointer;
 }
 
@@ -134,19 +138,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .speaker {
-  @extend .rainbow-border;
-  background: #ffffff;
-  border: 2px solid $purple;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 1rem;
-  height: 20rem;
+  display: flex;
+  flex-direction: column;
   margin: 1.25rem 0;
   overflow: hidden;
   padding: 1rem;
-  position: absolute;
   transition: 300ms;
-  width: 15rem;
   &:nth-child(2) {
     left: 2rem;
   }
@@ -154,23 +151,40 @@ h1, h2, h3, h4, h5, h6 {
     left: 4rem;
     top: 2rem;
   }
+  @include for-xs {
+    align-items: center;
+    flex-direction: column;
+  }
 }
 
-.speaker-header {
+.speaker-top {
   display: flex;
+}
+
+.speaker-name {
+  @extend .bold;
+}
+
+.speaker-presentation {
+  @extend .bold;
 }
 
 .headshot {
   @extend .rainbow-border;
-  border: 3px solid;
+  border: 0.25rem solid;
   border-radius: 100%;
+  margin-bottom: 2rem;
 }
 
 .speaker-headshot {
   @extend .headshot;
   margin-right: 1rem;
-  height: 3rem;
-  width: 3rem;
+  height: 8rem;
+  width: 8rem;
+  @include for-xs {
+    height: 12rem;
+    width: 12rem;
+  }
 }
 
 .organizers {
