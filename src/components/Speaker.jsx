@@ -21,12 +21,16 @@ const Speaker = ({
         </div>
         <div className="speaker-information">
           <h3 className="speaker-text--side speaker-name">{presenter}</h3>
+          {speaker.social.website ? (
+            <p className="speaker-text--side speaker-position">{speaker.position}</p>
+          ) : null}
           <div className="speaker-text--side speaker-social-media">
             {speaker.social.website ? (
               <a
                 href={speaker.social.website}
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Check out this speaker's website"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fas fa-globe" />
@@ -37,6 +41,7 @@ const Speaker = ({
                 href={speaker.social.github}
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Check out this speaker's Github"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fab fa-github" />
@@ -47,6 +52,7 @@ const Speaker = ({
                 href={speaker.social.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Check out this speaker's LinkedIn"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fab fa-linkedin" />
@@ -57,6 +63,7 @@ const Speaker = ({
                 href={speaker.social.twitter}
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Check out this speaker's Twitter"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fab fa-twitter" />
