@@ -2,7 +2,10 @@
   {
     "name": "Cameron Sampson",
     "headshot": "/images/headshots/cameron-sampson.png",
-    "emoji": "\uD83C\uDF88",
+    "emoji": {
+      "code": "\uD83C\uDF88",
+      "name": "balloon"
+    },
     "social": {
       "website": "http://cameronsampson.com/",
       "linkedin": "https://www.linkedin.com/in/cameronsampson/",
@@ -13,7 +16,10 @@
   {
     "name": "Steven Achord",
     "headshot": "/images/headshots/steven-achord.png",
-    "emoji": "\uD83C\uDF8A",
+    "emoji": {
+      "code": "\uD83C\uDF8A",
+      "name": "confetti ball"
+    },
     "social": {
       "website": "",
       "linkedin": "https://www.linkedin.com/in/steven-achord-95399b7",
@@ -24,7 +30,10 @@
   {
     "name": "Olivia Sabo-Rush",
     "headshot": "/images/headshots/olivia-sabo-rush.png",
-    "emoji": "\u2728",
+    "emoji": {
+      "code": "\u2728",
+      "name": "sparkles"
+    },
     "social": {
       "website": "http://pafiu.me",
       "linkedin": "https://www.linkedin.com/in/livrush",

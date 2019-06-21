@@ -57,8 +57,8 @@ const Organizers = () => (
             </a>
           ) : null}
         </p>
-        <span className="organizer-emoji" role="img" alt="organizer-emoji">
-          {organizer.emoji}
+        <span className="organizer-emoji" role="img" alt={organizer.emoji.name}>
+          {organizer.emoji.code}
         </span>
       </div>
     ))}
