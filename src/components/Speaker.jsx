@@ -20,8 +20,8 @@ const Speaker = ({
           <img className="speaker-headshot" src={headshot} alt="" />
         </div>
         <div className="speaker-information">
-          <h3 class="speaker-name">{presenter}</h3>
-          <div className="organizer-social-media">
+          <h3 className="speaker-text--side speaker-name">{presenter}</h3>
+          <div className="speaker-text--side speaker-social-media">
             {speaker.social.website ? (
               <a
                 href={speaker.social.website}
@@ -55,10 +55,10 @@ const Speaker = ({
               </a>
             ) : null}
           </div>
-          <p className="speaker-presentation">{title}</p>
+          <h4 className="speaker-text--side speaker-presentation">{title}</h4>
         </div>
       </div>
-      <p>{description}</p>
+      <p className="speaker-description">{description}</p>
     </div>
   );
 };

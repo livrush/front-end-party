@@ -164,8 +164,9 @@
     "headshot": "/images/headshots/cameron-sampson.png",
     "position": "",
     "social": {
-      "website": "",
-      "github": "",
+      "website": "http://cameronsampson.com/",
+      "linkedin": "https://www.linkedin.com/in/cameronsampson/",
+      "github": "https://github.com/csampson",
       "twitter": ""
     }
   },
@@ -624,9 +625,10 @@
     "headshot": "/images/headshots/olivia-sabo-rush.png",
     "position": "",
     "social": {
-      "website": "",
-      "github": "",
-      "twitter": ""
+      "website": "http://pafiu.me",
+      "linkedin": "https://www.linkedin.com/in/livrush",
+      "github": "https://github.com/livrush",
+      "twitter": "https://twitter.com/pafiume"
     }
   },
   "Patrick Burtchaell": {
