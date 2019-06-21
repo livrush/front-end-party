@@ -25,6 +25,8 @@ const Speaker = ({
             {speaker.social.website ? (
               <a
                 href={speaker.social.website}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fas fa-globe" />
@@ -33,6 +35,8 @@ const Speaker = ({
             {speaker.social.github ? (
               <a
                 href={speaker.social.github}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fab fa-github" />
@@ -41,6 +45,8 @@ const Speaker = ({
             {speaker.social.linkedin ? (
               <a
                 href={speaker.social.linkedin}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fab fa-linkedin" />
@@ -49,6 +55,8 @@ const Speaker = ({
             {speaker.social.twitter ? (
               <a
                 href={speaker.social.twitter}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="speaker-social-link link-delay rainbow-text"
               >
                 <i className="fab fa-twitter" />
