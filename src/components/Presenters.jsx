@@ -55,6 +55,15 @@ class Presenters extends Component {
           <div className="presenters" onClick={this.handleCardClick}>
             {speakerCards}
           </div>
+          <p>
+            Our next meetup will be on <span className="bold">{date}</span>.&nbsp;
+            <a
+              href={mostRecentMeetup.meetup}
+              className="rainbow-text link-delay"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Check out the Meetup page for this month's event">RSVP today!</a>
+          </p>
         </div>
       );
     } else {
