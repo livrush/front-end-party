@@ -154,7 +154,7 @@ const CodeOfConduct = () => {
             <a
               className="rainbow-text link-delay"
               href={`${links.meetup}/members/52557152`}
-              aria-Go to ="See Cameron Sampson's Meetup account"
+              aria-label="See Cameron Sampson's Meetup account"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -165,7 +165,7 @@ const CodeOfConduct = () => {
             <a
               className="rainbow-text link-delay"
               href={`${links.meetup}/members/185213572`}
-              aria-Go to ="See Steven Achord's Meetup account"
+              aria-label="See Steven Achord's Meetup account"
               target="_blank"
               rel="noopener noreferrer"
             >
