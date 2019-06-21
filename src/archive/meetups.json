@@ -1,23 +1,23 @@
 [
   {
     "id": 63,
-    "date": "June 23, 2029",
+    "date": "June 25, 2019",
     "meetup": "https://www.meetup.com/FrontEndParty/events/qkftvqyzhbfc/",
     "talks": [
       {
-        "presenter": "Amy Dalton",
-        "title": "A UX Perspective on Online Feature Workshops",
-        "description": "Join Amy Dalton as she talks about online feature workshop best practices. Amy was asked by her product owner to host UX feature workshops for their next release, but business, product and pods were scattered across the globe. With limited T&L, how does one conduct successful online workshops with a varied audience, while gathering specific research results? The UX Guild talk will walk us through her workshop process, with an emphasis on format, execution and data analysis."
+        "presenter": "George Mauer",
+        "title": "There Is No Front-End",
+        "description": "Does it make sense to distinguish so heavily between backend/frontend dev these days? Modern tooling and universal JavaScript give us reason for doubt. George will give us his take on it all."
       },
       {
-        "presenter": "Derek Ambrosio",
-        "title": "Fun with Google Data Studio",
-        "description": "I’ll show some of the things you can do with Google Analytics/Search Console, as well as how it can be used as a powerful dashboard builder for anything from personal finance to plotting home values in New Orleans. The new tool can quickly visualize large data sets and connects to over 500 data sources both Google and Non-Google like: Google Analytics, Google Sheets, Google BigQuery, Google Ads, Display & Video 360, Search Ads 360, YouTube Analytics. Derek Ambrosio (creativeroam.com)."
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Understanding and Using Animation in CSS/JS",
+        "description": "Animation has the potential to create a meaningful impact in any website or application’s user experience. From elaborate designs, to a simple loading spinner, animation can help demonstrate important signals without the use of text. We’ll explore what animation is, the different ways we can incorporate it in CSS or JavaScript, and several libraries to try out."
       },
       {
-        "presenter": "Bryan Joseph",
-        "title": "Phoenix LiveView",
-        "description": "Phoenix LiveView is an exciting new library which enables rich, real-time user experiences with server-rendered HTML. It does real-time server-render HTML with DOM diffing in Elixir and Phoenix."
+        "presenter": "Cameron Sampson",
+        "title": "",
+        "description": ""
       }
     ]
   },
