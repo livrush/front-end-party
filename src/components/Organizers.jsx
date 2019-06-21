@@ -18,6 +18,7 @@ const Organizers = () => (
               className="organizer-social-link link-delay rainbow-text"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Check out this organizer's website"
             >
               <i className="fas fa-globe" />
             </a>
@@ -28,6 +29,7 @@ const Organizers = () => (
               className="organizer-social-link link-delay rainbow-text"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Check out this organizer's Github"
             >
               <i className="fab fa-github" />
             </a>
@@ -38,6 +40,7 @@ const Organizers = () => (
               className="organizer-social-link link-delay rainbow-text"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Check out this organizer's LinkedIn"
             >
               <i className="fab fa-linkedin" />
             </a>
@@ -48,12 +51,13 @@ const Organizers = () => (
               className="organizer-social-link link-delay rainbow-text"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Check out this organizer's Twitter"
             >
               <i className="fab fa-twitter" />
             </a>
           ) : null}
         </p>
-        <span className="organizer-emoji" role="img">
+        <span className="organizer-emoji" role="img" alt="organizer-emoji">
           {organizer.emoji}
         </span>
       </div>

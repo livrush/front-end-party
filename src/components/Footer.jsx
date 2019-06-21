@@ -15,6 +15,7 @@ const Footer = () => (
           href={links.meetup}
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Check out our Meetup"
           className="footer-link link-delay rainbow-text"
         >
           <i className="fab fa-meetup" />
@@ -23,6 +24,7 @@ const Footer = () => (
           href={links.twitter}
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Check out our Twitter"
           className="footer-link link-delay rainbow-text"
         >
           <i className="fab fa-twitter" />
@@ -31,18 +33,24 @@ const Footer = () => (
           href={links.presentationApplication}
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Apply to be a speaker"
           className="footer-link link-delay rainbow-text"
         >
           <i className="fas fa-paper-plane" />
         </a>
       </div>
       <div className="links-out-section">
-        <a href="/archive" className="footer-link link-delay rainbow-text">
+        <a
+          href="/archive"
+          className="footer-link link-delay rainbow-text"
+          aria-label="Check out our presentation archive"
+        >
           <i className="fas fa-book" />
         </a>
         <a
           href="/code-of-conduct"
           className="footer-link link-delay rainbow-text"
+          aria-label="Check out our code of conduct"
         >
           <i className="fas fa-gavel" />
         </a>

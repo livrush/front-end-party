@@ -23,6 +23,7 @@ const Meetup = ({
               href={meetup}
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Check out this Meetup's full information"
             >
               {date}
             </a>

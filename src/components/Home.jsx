@@ -34,6 +34,9 @@ const Home = () => {
           <a
             className="rainbow-text link-delay"
             href={links.presentationApplication}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Apply to be a speaker here"
           >
             Apply here to talk!
           </a>
@@ -53,7 +56,11 @@ const Home = () => {
         <Presenters />
         <p>
           Check out our{' '}
-          <a href="/archive" className="rainbow-text link-delay">
+          <a
+            href="/archive"
+            aria-label="Check out our presentation archive"
+            className="rainbow-text link-delay"
+          >
             presentation archive!
           </a>
         </p>
@@ -65,6 +72,7 @@ const Home = () => {
           <a
             className="rainbow-text link-delay"
             href="http://threekeysnola.com/"
+            aria-label="Check out our venue"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -74,6 +82,7 @@ const Home = () => {
           <a
             className="rainbow-text link-delay"
             href="https://www.acehotel.com/neworleans/"
+            aria-label="Check out our venue"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -87,6 +96,7 @@ const Home = () => {
           <a
             className="rainbow-text link-delay"
             href="http://nolahacknight.com/"
+            aria-label="Check out our sister meetup"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -102,6 +112,7 @@ const Home = () => {
             href={links.meetup}
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="Check out our Meetup page"
           >
             Meetup page
           </a>

@@ -21,6 +21,7 @@ const Header = () => (
         href={links.meetup}
         target="_blank"
         rel="noopener noreferrer"
+        aria-label="Check out our Meetup page"
         className="link-delay rainbow-text"
       >
         meetup
@@ -36,6 +37,7 @@ const Header = () => (
         href="https://www.acehotel.com/neworleans/"
         target="_blank"
         rel="noopener noreferrer"
+        aria-label="Check out the Ace Hotel"
         className="link-delay rainbow-text"
       >
         <strong>Ace Hotel</strong>
