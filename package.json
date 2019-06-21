@@ -15,6 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "deploy": "git push heroku master",
     "style": "compass watch"
   },
   "eslintConfig": {
