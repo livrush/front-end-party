@@ -45,8 +45,8 @@
       },
       {
         "presenter": "Cameron Sampson",
-        "title": "",
-        "description": ""
+        "title": "An Introduction To Web Accessibility",
+        "description": "Web accessibility is the practice of ensuring web content and functionality is able to by accessed by all users, regardless of disability. This talk will introduce developers and designers to the concept, walk through a number of best practices around semantics, structure, ARIA, and a live demo of a screen-reader."
       }
     ]
   },
