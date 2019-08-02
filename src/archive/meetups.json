@@ -1,5 +1,34 @@
 [
   {
+    "id": 65,
+    "date": "August 27, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryzlbkc/",
+    "talks": [
+      {
+        "presenter": "Kunal Jawale",
+        "title": "Automation Testing using Codeceptjs and Selenium Webdriver",
+        "description": "To reduce manual testing effort while deploying code many times a day or during regression before release, automation testing comes pretty handy. There are different automation framework that satisfies the need. Codeceptjs and Selenium is one way to do it."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "date": "July 23, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryzkbfc/",
+    "talks": [
+      {
+        "presenter": "Brad Huber",
+        "title": "Using Expo to speed up React Native development",
+        "description": "React Native is a tool that helps us build native mobile apps for Android or iOS using only React. But there is still some android and ios specific configuration that you need to deal with. Expo solves this issue by providing a javascript-only approach and taking care of all the native configuration for you."
+      },
+      {
+        "presenter": "Steven Achord",
+        "title": "How I spent my Summer Vacation",
+        "description": "Being a digital nomad has its challenges. Steve will share tips and tricks from his summer working remotely from Mexico. He'll share how he planned his trip using GitHub and the tools he used to stayed connected to his team."
+      }
+    ]
+  },
+  {
     "id": 63,
     "date": "June 25, 2019",
     "meetup": "https://www.meetup.com/FrontEndParty/events/vszzzqyzjbhc/",
