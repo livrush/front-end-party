@@ -4,7 +4,7 @@ import organizers from '../archive/organizers';
 const Organizers = () => (
   <div className="organizers">
     {organizers.map(organizer => (
-      <div className="organizer">
+      <div className="organizer" key={organizer.name}>
         <img
           src={organizer.headshot}
           className="organizer-headshot"
