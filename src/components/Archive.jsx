@@ -4,7 +4,7 @@ import archive from '../archive/meetups.json';
 
 const Archive = () => {
   const meetups = archive.map(meetup => (
-    <Meetup {...meetup} />
+    <Meetup key={`fep-${meetup.id}`} {...meetup} />
   ));
   return (
     <div className="archive">

@@ -7,7 +7,7 @@ const Meetup = ({
   meetup,
   talks,
 }) => {
-  const meetupTalks = talks.map(talk => <Talk {...talk} />);
+  const meetupTalks = talks.map(talk => <Talk key={`${talk.presenter}-${meetup.id}`} {...talk} />);
   return (
     <Fragment>
       <div className="meetup">
