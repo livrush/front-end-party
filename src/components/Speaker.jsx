@@ -17,7 +17,7 @@ const Speaker = ({
     <div style={style} className="speaker">
       <div className="speaker-top">
         <div className="speaker-headshot-container">
-          <img className="speaker-headshot" src={headshot} alt="" />
+          <img className="speaker-headshot" src={`/images/headshots/${headshot}`} alt="" />
         </div>
         <div className="speaker-information">
           <h3 className="speaker-text--side speaker-name">{presenter}</h3>

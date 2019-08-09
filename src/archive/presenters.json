@@ -34,7 +34,7 @@
   },
   "Alexa Welch": {
     "name": "Alexa Welch",
-    "headshot": "/images/headshots/alexa-welch.png",
+    "headshot": "alexa-welch.png",
     "position": "Software Engineer @ iSeatz",
     "social": {
       "website": "",
@@ -177,7 +177,7 @@
   },
   "Cameron Sampson": {
     "name": "Cameron Sampson",
-    "headshot": "/images/headshots/cameron-sampson.png",
+    "headshot": "cameron-sampson.png",
     "position": "Senior Software Engineer @ Lucid ",
     "social": {
       "website": "http://cameronsampson.com/",
@@ -398,7 +398,7 @@
   },
   "George Mauer": {
     "name": "George Mauer",
-    "headshot": "/images/headshots/george-mauer.jpg",
+    "headshot": "george-mauer.jpg",
     "position": "Director of Development @ Surge Software",
     "social": {
       "website": "http://georgemauer.net/",
@@ -607,7 +607,7 @@
   },
   "Kunal Jawale": {
     "name": "Kunal Jawale",
-    "headshot": "/images/headshots/kunal-jawale.jpeg",
+    "headshot": "kunal-jawale.jpeg",
     "position": "",
     "social": {
       "website": "",
@@ -695,7 +695,7 @@
   },
   "Olivia Sabo-Rush": {
     "name": "Olivia Sabo-Rush",
-    "headshot": "/images/headshots/olivia-sabo-rush.png",
+    "headshot": "olivia-sabo-rush.png",
     "position": "Senior Software Engineer @ iSeatz",
     "social": {
       "website": "http://pafiu.me",
