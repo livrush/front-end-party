@@ -8,6 +8,11 @@
         "presenter": "Kunal Jawale",
         "title": "Automation Testing using Codeceptjs and Selenium Webdriver",
         "description": "To reduce manual testing effort while deploying code many times a day or during regression before release, automation testing comes pretty handy. There are different automation framework that satisfies the need. Codeceptjs and Selenium is one way to do it."
+      },
+      {
+        "presenter": "Alexa Welch",
+        "title": "Front-end Modularity: You Wouldn’t Reimplement a Search Form",
+        "description": "We’re going to look over various ways to break down designs, some pitfalls in the translation of design to code, and how to adapt to developing in an environment that increasingly grows in complexity."
       }
     ]
   },

@@ -34,12 +34,12 @@
   },
   "Alexa Welch": {
     "name": "Alexa Welch",
-    "headshot": "",
-    "position": "",
+    "headshot": "alexa-welch.png",
+    "position": "Software Engineer @ iSeatz",
     "social": {
       "website": "",
       "github": "",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/alexa-welch-957b06183/",
       "twitter": ""
     }
   },
