@@ -32,7 +32,7 @@ const Header = () => (
       <strong>designer professionals</strong>.
     </p>
     <p className="title-4">
-      Every <strong>third Tuesday</strong> at&nbsp;
+      Every <strong>fourth Tuesday</strong> at&nbsp;
       <a
         href="https://www.acehotel.com/neworleans/"
         target="_blank"

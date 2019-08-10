@@ -66,7 +66,7 @@ const Home = () => {
         </p>
       </Content>
       <Content emoji="&#128205;" title="The When & Where">
-        <p>#FrontEndParty meets the third Tuesday of every month.</p>
+        <p>#FrontEndParty meets the fourth Tuesday of every month.</p>
         <p>
           Our gracious host for the meetup is the&nbsp;
           <a
