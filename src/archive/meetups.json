@@ -5,6 +5,11 @@
     "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryzlbkc/",
     "talks": [
       {
+        "presenter": "Cameron Sampson",
+        "title": "Introduction to PixiJS, The 2D WebGL/HTML5 Creation Engine",
+        "description": "PixiJS is a WebGL/HTML5-based 2D graphics engine. It lets you render fancy 2D content without prior knowledge of WebGL. We'll be covering the basic API, sprite rendering, and building a UI on top of your rendering."
+      },
+      {
         "presenter": "Kunal Jawale",
         "title": "Automation Testing using Codeceptjs and Selenium Webdriver",
         "description": "To reduce manual testing effort while deploying code many times a day or during regression before release, automation testing comes pretty handy. There are different automation framework that satisfies the need. Codeceptjs and Selenium is one way to do it."

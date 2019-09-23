@@ -10,7 +10,6 @@ class Presenters extends Component {
       cardStyles: [
         {
           'zIndex': 30,
-          overflow: 'scroll',
           top: '0rem',
         },
         {
