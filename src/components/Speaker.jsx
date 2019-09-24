@@ -21,7 +21,7 @@ const Speaker = ({
         </div>
         <div className="speaker-information">
           <h3 className="speaker-text--side speaker-name">{presenter}</h3>
-          {speaker.social.website ? (
+          {speaker.position ? (
             <p className="speaker-text--side speaker-position">{speaker.position}</p>
           ) : null}
           <div className="speaker-text--side speaker-social-media">

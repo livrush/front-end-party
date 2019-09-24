@@ -178,13 +178,24 @@
   "Cameron Sampson": {
     "name": "Cameron Sampson",
     "headshot": "cameron-sampson.png",
-    "position": "Senior Software Engineer @ Lucid ",
+    "position": "Senior Software Engineer @ Lucid",
     "social": {
       "website": "http://cameronsampson.com/",
       "linkedin": "https://www.linkedin.com/in/cameronsampson/",
       "github": "https://github.com/csampson",
       "linkedin": "",
       "twitter": ""
+    }
+  },
+  "Charles Robertson": {
+    "name": "Charles Robertson",
+    "headshot": "charles-robertson.jpg",
+    "position": "Front End Development / Graphic Design",
+    "social": {
+      "website": "",
+      "github": "",
+      "linkedin": "",
+      "twitter": "https://twitter.com/tr0pical1ntrnet"
     }
   },
   "Chris Boyd": {
@@ -696,7 +707,7 @@
   "Olivia Sabo-Rush": {
     "name": "Olivia Sabo-Rush",
     "headshot": "olivia-sabo-rush.png",
-    "position": "Senior Software Engineer @ iSeatz",
+    "position": "Software Engineer",
     "social": {
       "website": "http://pafiu.me",
       "github": "https://github.com/livrush",
@@ -827,24 +838,13 @@
   },
   "Sia Karamalegos": {
     "name": "Sia Karamalegos",
-    "headshot": "",
-    "position": "",
+    "headshot": "sia-karamalegos.jpg",
+    "position": "Clio + Calliope",
     "social": {
-      "website": "",
-      "github": "",
-      "linkedin": "",
-      "twitter": ""
-    }
-  },
-  "Sia Karmalegos": {
-    "name": "Sia Karmalegos",
-    "headshot": "",
-    "position": "",
-    "social": {
-      "website": "",
-      "github": "",
-      "linkedin": "",
-      "twitter": ""
+      "website": "https://siakaramalegos.github.io/",
+      "github": "https://github.com/siakaramalegos",
+      "linkedin": "https://www.linkedin.com/in/karamalegos",
+      "twitter": "https://twitter.com/TheGreenGreek"
     }
   },
   "Steve Price": {
