@@ -1,5 +1,27 @@
 [
   {
+    "id": 66,
+    "date": "September 24, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryzmbgc/",
+    "talks": [
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Zdog",
+        "description": "Liv takes us through an introduction of Zdog, a round, flat, designer-friendly pseudo-3D engine for canvas & SVG."
+      },
+      {
+        "presenter": "Charles Robertson",
+        "title": "Svelte",
+        "description": "Svelte is a reactive component framework comparable to React, Angular, and Vue. However instead of being a runtime library It compiles at build time into HTML, CSS, and JS to produce web apps that are faster and lighter than its contemporaries."
+      },
+      {
+        "presenter": "Sia Karamalegos",
+        "title": "Preact",
+        "description": "Preact is a fast, 3kB alternative to React with the same modern API! Let's go crazy and live code a new #FrontEndParty website that uses the Meetup API to populate the upcoming event."
+      }
+    ]
+  },
+  {
     "id": 65,
     "date": "August 27, 2019",
     "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryzlbkc/",
