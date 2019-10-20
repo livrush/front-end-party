@@ -153,6 +153,19 @@
       "twitter": ""
     }
   },
+  "Brittany Gay": {
+    "name": "Brittany Gay",
+    "headshot": "brittany-gay.jpg",
+    "position": "UX Designer/Front-End Developer at Revelry Labs",
+    "social": {
+      "website": "",
+      "github": "",
+      "linkedin": "https://www.linkedin.com/in/brittanygay/",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/brittany.gay.3",
+      "instagram": "https://www.instagram.com/brittanygay/"
+    }
+  },
   "Brian Ng": {
     "name": "Brian Ng",
     "headshot": "",
@@ -256,6 +269,17 @@
   "Cory Fabre": {
     "name": "Cory Fabre",
     "headshot": "",
+    "position": "",
+    "social": {
+      "website": "",
+      "github": "",
+      "linkedin": "",
+      "twitter": ""
+    }
+  },
+  "Curtis Cummings": {
+    "name": "Curtis Cummings",
+    "headshot": "curtis-cummings.jpg",
     "position": "",
     "social": {
       "website": "",

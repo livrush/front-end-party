@@ -1,5 +1,27 @@
 [
   {
+    "id": 67,
+    "date": "October 22, 2019",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryznbdc/",
+    "talks": [
+      {
+        "presenter": "Brittany Gay",
+        "title": "Best Collaboration Practices When you're the only UX Designer/Front-end Developer on the Team",
+        "description": "If you’re working on a small or large project and you’re the only designer on the team, have no fear, Brittany's here to help. She'll share preparation tips, tools, guides, and how she bridges the gap between design and development."
+      },
+      {
+        "presenter": "Curtis Cummings",
+        "title": "Impostor Syndrome or: How I Learned to Stop Worrying and Love the Bomb",
+        "description": "Local Software Engineer and Indie Game Developer shares his 6-year journey getting into the software industry while being an impostor the whole time."
+      },
+      {
+        "presenter": "George Mauer",
+        "title": "The Most Accessible Pizza Pie",
+        "description": "The tech world is abuzz with the final word rendered in the Dominos vs Robles web accessibility case. Anyone can be sued for ADA compliance violations now! No one knows what to do! It's chaos! Reading the ruling brings things into sharper focus. We will go over what the ruling actually was, why it was issued, and what this means for us web developers. All from DEFINITELY NOT A LAWYER!"
+      }
+    ]
+  },
+  {
     "id": 66,
     "date": "September 24, 2019",
     "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryzmbgc/",
