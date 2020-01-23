@@ -10,6 +10,17 @@
       "twitter": ""
     }
   },
+  "Adrian Sampson": {
+    "name": "Adrian Sampson",
+    "headshot": "cameron-sampson-alt.png",
+    "position": "",
+    "social": {
+      "website": "http://cameronsampson.com/",
+      "linkedin": "https://www.linkedin.com/in/cameronsampson/",
+      "github": "https://github.com/csampson",
+      "twitter": ""
+    }
+  },
   "Alex Dragoset": {
     "name": "Alex Dragoset",
     "headshot": "",
@@ -191,12 +202,11 @@
   "Cameron Sampson": {
     "name": "Cameron Sampson",
     "headshot": "cameron-sampson.png",
-    "position": "Senior Software Engineer @ Lucid",
+    "position": "",
     "social": {
       "website": "http://cameronsampson.com/",
       "linkedin": "https://www.linkedin.com/in/cameronsampson/",
       "github": "https://github.com/csampson",
-      "linkedin": "",
       "twitter": ""
     }
   },
@@ -284,6 +294,17 @@
     "social": {
       "website": "",
       "github": "",
+      "linkedin": "",
+      "twitter": ""
+    }
+  },
+  "Dave Brudner": {
+    "name": "Dave Brudner",
+    "headshot": "dave-brudner.jpg",
+    "position": "",
+    "social": {
+      "website": "",
+      "github": "https://github.com/dbrudner",
       "linkedin": "",
       "twitter": ""
     }

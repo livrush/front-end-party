@@ -1,5 +1,27 @@
 [
   {
+    "id": 68,
+    "date": "January 28, 2020",
+    "meetup": "",
+    "talks": [
+      {
+        "presenter": "Dave Brudner",
+        "title": "An Introduction to react-testing-library",
+        "description": "Dave will walk us through react-testing-library, a solution for testing React components that uses the DOM. It provides a simple API to query and manipulate component DOM nodes, just like a user would."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "A-Frame - 3D Rendering In Virtual Reality",
+        "description": "A-Frame is a Three.js framework for building virtual reality experiences for the web. It abstracts away much of the complexity around creating 3D scenes in the browser and we'll cover how to use it to create your own 3D scenes."
+      },
+      {
+        "presenter": "Adrian Sampson",
+        "title": "AR.js v2 - Location Based Augmented Reality",
+        "description": "After learning about A-Frame, we'll dive into AR.js, an augmented reality library for the web that uses A-Frame/Three.js to render content in your device camera's view. We'll be introduced to rendering using marker images as well as a new marker-less location based rendering (using GPS)."
+      }
+    ]
+  },
+  {
     "id": 67,
     "date": "October 22, 2019",
     "meetup": "https://www.meetup.com/FrontEndParty/events/fctkfryznbdc/",
