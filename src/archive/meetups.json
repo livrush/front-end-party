@@ -1,8 +1,47 @@
 [
   {
+    "id": 70,
+    "date": "April 28, 2020",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybcgblc/",
+    "talks": [
+      {
+        "presenter": "Olivia Sabo-Rush",
+        "title": "Create a Chrome Extension",
+        "description": "Grammarly, Boomerang, Lighthouse, Adblock, HTTPS Everywhere, and Vimium are just six of thousands of available Google Chrome extensions. Liv will walk us through what types of extensions exist, and how to make your own."
+      },
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Coming Together in Virtual Reality",
+        "description": "A deep-dive into creating multi-user VR experiences in just about any web browser, using Mozilla A-Frame and WebSocket. We'll take a look at syncing between client(s) and server, avatar movement in real-time, and basic interactions."
+      },
+      {
+        "presenter": "Lynsey Gwin",
+        "title": "Conversational Design",
+        "description": "Conversation is the oldest interface. In this talk, we will discuss how to apply the principles of effective conversation to digital interfaces."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "date": "March 24, 2020",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybcfbgc",
+    "talks": [
+      {
+        "presenter": "Marc Cenac",
+        "title": "Understanding bias in electoral maps",
+        "description": "All maps distort the facts in some ways but some maps are more truthful than others. Marc will review some common electoral maps and discuss their biases, then consider how to build a better electoral map using the OpenLayers web mapping library using data from Louisiana’s most recent gubernatorial election."
+      },
+      {
+        "presenter": "Speaker Panel",
+        "title": "Remote Working",
+        "description": "As the covid-19 virus has disrupted our lives, one obvious solution is to take everything online. For many of us that have worked in the tech industry for years, this is nothing new. Join our panel of remote working experts as we discuss tools and strategies for taking work 100% virtual."
+      }
+    ]
+  },
+  {
     "id": 68,
     "date": "January 28, 2020",
-    "meetup": "",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybccblc",
     "talks": [
       {
         "presenter": "Dave Brudner",
