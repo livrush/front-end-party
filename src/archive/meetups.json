@@ -1,6 +1,23 @@
 [
   {
     "id": 68,
+    "date": "May 26, 2020",
+    "meetup": "",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Designing A New Post-Game Screen For Overwatch",
+        "description": "We'll take a look at a process for re-designing the end-of-match stats screen for the game Overwatch. Topics will include an outline of existing challenges, shortcomings of the current design, and the end-to-end process of 'hacking' a real-life design and creating a mockup replacement in Figma."
+      },
+      {
+        "presenter": "Dave Brudner",
+        "title": "An Introduction to TypeScript",
+        "description": "Dave will walk us through a basic introduction to TypeScript, as well as how to use TypeScript in React projects." 
+      }
+    ]
+  },
+  {
+    "id": 68,
     "date": "January 28, 2020",
     "meetup": "",
     "talks": [
