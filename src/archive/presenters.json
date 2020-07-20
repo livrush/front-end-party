@@ -199,6 +199,17 @@
       "twitter": ""
     }
   },
+  "Cain Watson": {
+    "name": "Cain Watson",
+    "headshot": "cain-watson.jpeg",
+    "position": "",
+    "social": {
+      "website": "https://cainwatson.com/",
+      "linkedin": "https://www.linkedin.com/in/cainwatson/",
+      "github": "https://github.com/cainwatson",
+      "twitter": ""
+    }
+  },
   "Cameron Sampson": {
     "name": "Cameron Sampson",
     "headshot": "cameron-sampson.png",
@@ -947,14 +958,14 @@
       "twitter": ""
     }
   },
-  "Živilė Janulevičiūtė Goodwin": {
-    "name": "Živilė Janulevičiūtė Goodwin",
-    "headshot": "",
-    "position": "",
+  "Zivile Goodwin": {
+    "name": "Zivile Goodwin",
+    "headshot": "zivile-goodwin.jpeg",
+    "position": "Software Engineer @ iSeatz",
     "social": {
       "website": "",
       "github": "",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/zivile-januleviciute-goodwin",
       "twitter": ""
     }
   }
