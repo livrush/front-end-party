@@ -1,5 +1,22 @@
 [
   {
+    "id": 73,
+    "date": "July 28, 2020",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybckblc/",
+    "talks": [
+      {
+        "presenter": "Cain Watson",
+        "title": "Exploring Blazor",
+        "description": "Blazor makes building web apps with .NET quick and easy. In this talk, we’ll dig into the features Blazor offers and go into a live demo building an app that shows pet adoption listings."
+      },
+      {
+        "presenter": "Zivile Goodwin",
+        "title": "Intro to MUI Theme and a quick setup",
+        "description": "MUI Theme can be painfully opinionated throughout the development if not set up efficiently in advance: we will go through some parts how MUI Theme internally utilizes its own styles."
+      }
+    ]
+  },
+  {
     "id": 70,
     "date": "April 28, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybcgblc/",
