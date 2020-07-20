@@ -68,25 +68,25 @@ const Home = () => {
       <Content emoji="&#128205;" title="The When & Where">
         <p>#FrontEndParty meets the fourth Tuesday of every month.</p>
         <p>
-          Our gracious host for the meetup is the&nbsp;
+          Due to COVID-19 our meetups are being hosted virtually on&nbsp;
           <a
             className="rainbow-text link-delay"
-            href="http://threekeysnola.com/"
-            aria-label="Check out our venue"
+            href="https://zoom.us/"
+            aria-label="Check out Zoom"
             target="_blank"
             rel="noopener noreferrer"
           >
-            3 Keys Lounge
+            Zoom
           </a>
-          &nbsp;at the&nbsp;
+          . To get a link to each month's meetup, RSVP on our&nbsp;
           <a
             className="rainbow-text link-delay"
-            href="https://www.acehotel.com/neworleans/"
-            aria-label="Check out our venue"
+            href="https://www.meetup.com/FrontEndParty/"
+            aria-label="Check out our Meetup page"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Ace Hotel
+            Meetup page
           </a>
           .
         </p>
