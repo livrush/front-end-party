@@ -78,35 +78,14 @@ const Home = () => {
           >
             Zoom
           </a>
-          . To get a link to each month's meetup, RSVP on our&nbsp;
-          <a
-            className="rainbow-text link-delay"
-            href="https://www.meetup.com/FrontEndParty/"
-            aria-label="Check out our Meetup page"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Meetup page
-          </a>
           .
         </p>
         <p>
           We start the presentations around 7:00pm or so, but feel free to
-          come earlier if you like and grab a drink at the lobby bar.&nbsp;
-          <a
-            className="rainbow-text link-delay"
-            href="http://nolahacknight.com/"
-            aria-label="Check out our sister meetup"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Hack Night
-          </a>
-          &nbsp;will be running around the same time, so there will be cool
-          people around!
+          come earlier if you like, with a drink or a snack, and we'll socialize a bit before the talks.
         </p>
         <p>
-          You can find all of this information and more on our&nbsp;
+          You can find all of this information and more, like Zoom links for the meetups, on our&nbsp;
           <a
             className="rainbow-text link-delay"
             href={links.meetup}
