@@ -17,6 +17,23 @@
     ]
   },
   {
+    "id": 71,
+    "date": "May 26, 2020",
+    "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybchbjc/",
+    "talks": [
+      {
+        "presenter": "Cameron Sampson",
+        "title": "Designing A New Post-Game Screen For Overwatch",
+        "description": "We'll take a look at a process for re-designing the end-of-match stats screen for the game Overwatch. Topics will include an outline of existing challenges, shortcomings of the current design, and the end-to-end process of 'hacking' a real-life design and creating a mockup replacement in Figma."
+      },
+      {
+        "presenter": "Dave Brudner",
+        "title": "An Introduction to TypeScript",
+        "description": "Dave will walk us through a basic introduction to TypeScript, as well as how to use TypeScript in React projects."
+      }
+    ]
+  },
+  {
     "id": 70,
     "date": "April 28, 2020",
     "meetup": "https://www.meetup.com/FrontEndParty/events/hdvkkrybcgblc/",
@@ -52,23 +69,6 @@
         "presenter": "Speaker Panel",
         "title": "Remote Working",
         "description": "As the covid-19 virus has disrupted our lives, one obvious solution is to take everything online. For many of us that have worked in the tech industry for years, this is nothing new. Join our panel of remote working experts as we discuss tools and strategies for taking work 100% virtual."
-      }
-    ]
-  },
-  {
-    "id": 68,
-    "date": "May 26, 2020",
-    "meetup": "",
-    "talks": [
-      {
-        "presenter": "Cameron Sampson",
-        "title": "Designing A New Post-Game Screen For Overwatch",
-        "description": "We'll take a look at a process for re-designing the end-of-match stats screen for the game Overwatch. Topics will include an outline of existing challenges, shortcomings of the current design, and the end-to-end process of 'hacking' a real-life design and creating a mockup replacement in Figma."
-      },
-      {
-        "presenter": "Dave Brudner",
-        "title": "An Introduction to TypeScript",
-        "description": "Dave will walk us through a basic introduction to TypeScript, as well as how to use TypeScript in React projects." 
       }
     ]
   },
